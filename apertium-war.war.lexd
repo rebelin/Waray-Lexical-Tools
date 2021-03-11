@@ -2,8 +2,15 @@
 
 # Part of speech categories
 # <n>      # Noun
+# <prn>    # Pronoun
 # <v>      # Verb
+# <adv>    # Adverb
+# <tv>     # Transitive verb
+# <iv>     # Intransitive verb
+# <vaux>   # Auxiliary verb
 # <adj>    # Adjective
+# <pr>     # Preposition
+# <det>    # Determiner
 
 # <sent>   # Sentence-ending punctuation
 # <guio>   # Hyphen
@@ -16,11 +23,18 @@
 # <rpar>   # Right parenthesis
 
 # Number morphology
-# <pl>  # Plural
-# <sg>  # Singular
+# <pl>     # Plural
+# <p1>     # First person
+# <p2>     # Second person
+# <p3>     # Third person
+# <sg>     # Singular
 
 # Other symbols
-# >      # Morpheme boundary
+# <past>   # Past tense
+# <pres>   # Present tense
+# <fut>    # Future tense
+# <imp>    # Imperative
+# >        # Morpheme boundary
 
 ###############################################################################
 ###                       M O R P H O T A C T I C S                         ###
@@ -57,7 +71,7 @@ LEXICON Punctuation
 -<guio>:-
 —<guio>:—
 ,<cm>:,
-?<sent>:? 
+?<sent>:?
 '<apos>:'
 "<quot>:"
 «<lquot>:«
@@ -81,4 +95,3 @@ LEXICON Punctuation
 # https://kitwiki.csc.fi/twiki/bin/view/KitWiki/HfstHome
 # https://github.com/hfst/
 # http://wiki.apertium.org/wiki/Hfst
-

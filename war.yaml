@@ -1,0 +1,134 @@
+Config:
+  hfst:
+    App: hfst-lookup
+    Gen: ../war.autogen.hfst
+    Morph: ../war.automorf.hfst
+Tests:
+  Actions Completed/In Progress:
+    ' ka <pr><fut>':
+    - ' Not yet'
+    ' na/pa <vaux><past><pres>':
+    - Not now or already
+  Beneficiary:
+    ' para <prep>':
+    - ''
+    ha <prep><sg>:
+    - ''
+    han mga <prep><pl>:
+    - ''
+    kan <prep><sg>:
+    - ''
+    kan _ ngan kan _<prep><pl>:
+    - ''
+    mga <det><pl>:
+    - ''
+    ngan <det><pl>:
+    - ''
+  Demonstrative Pronouns: {}
+  Mag: {}
+  Nag: {}
+  Negatives:
+    ' diri <adv><fut>':
+    - ' Not or No'
+    ' waray <adv><past><pres>':
+    - Not or No
+  Nouns:
+    ' Amerikano <n>':
+    - ' American'
+    ' Babaye <n>':
+    - ' Woman'
+    ' Estudyante <n>':
+    - ' Student'
+    ' Lalake <n>':
+    - ' Man'
+    ' Mga <part><pl>':
+    - ''
+    ' Sangkay <n>':
+    - ' Friend'
+  Pag: {}
+  Parts of Speech: {}
+  Personal Nouns:
+    Akon <pr><pers><p1><sg>:
+    - Ako
+    Aton/amon (inc./ex.) <pr><pers><p1><pl>:
+    - Ha aton/amon
+    He/She <pr><pers><p3><sg>:
+    - hiya
+    I <pr><pers><p1><sg>:
+    - Ako
+    Imo <pr><pers><p2><sg>:
+    - Ha imo
+    Ira <pr><pers><p3><pl>:
+    - Ha ira
+    Iya <pr><pers><p3><sg>:
+    - Ha iya
+    Iyo <pr><pers><p2><pl>:
+    - Ha iyo
+    Our (inc./ex.) <pr><pers><p1><pl>:
+    - kita/kami
+    They <pr><pers><p3><pl>:
+    - hira
+    You <pr><pers><p2><pl>:
+    - kamo
+    You <pr><pers><p2><sg>:
+    - Ikaw/ka
+  Possessions:
+    han mga <pr><pl>:
+    - ''
+    han/hin <pr><sg>:
+    - ''
+    ni <pr><sg>:
+    - ''
+    nira <pr><pl>:
+    - ''
+  Question Markers:
+    ' ba <part>':
+    - ''
+    ' ka <pr>':
+    - ''
+  Verbalizing Nouns: {}
+  Verbs:
+    bus <v><tv><pres>:
+    - ' pagbus'
+    piano <v><tv><past>:
+    - ' pagpiano'
+    –Aram <v><tv><fut>:
+    - ' mag-guitar'
+    –Aram <v><tv><imp>:
+    - ' pag-aram'
+    –Aram <v><tv><past>:
+    - ' mag-computer'
+    –Aram <v><tv><pres>:
+    - ' magkape'
+    –Bantay <v><tv><fut>:
+    - ' magbantay'
+    –Bantay <v><tv><imp>:
+    - ' pagbantay'
+    –Bantay <v><tv><past>:
+    - ' nagbantay'
+    –Bantay <v><tv><pres>:
+    - ' nagbabantay'
+    –Dara <v><tv><fut>:
+    - ' magdara'
+    –Dara <v><tv><imp>:
+    - ' pagdara'
+    –Dara <v><tv><past>:
+    - ' nagdara'
+    –Dara <v><tv><pres>:
+    - ' nagdadara'
+    –Mando <v><tv><fut>:
+    - ' magmando'
+    –Mando <v><tv><imp>:
+    - ' pagmando'
+    –Mando <v><tv><past>:
+    - ' nagmando'
+    –Mando <v><tv><pres>:
+    - ' nagmamando'
+    –Trabaho <v><tv><fut>:
+    - ' magtrabaho'
+    –Trabaho <v><tv><imp>:
+    - ' pagtrabaho'
+    –Trabaho <v><tv><past>:
+    - ' nagtrabaho'
+    –Trabaho <v><tv><pres>:
+    - ' nagtratrabaho'
