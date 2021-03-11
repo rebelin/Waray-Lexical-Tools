@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modes>
+
+  <mode name="war-twol" install="yes">
+    <pipeline>
+      <program name="hfst-strings2fst -S"/>
+      <program name="hfst-compose-intersect">
+        <file name=".deps/war.twol.hfst"/>
+      </program>
+      <program name="hfst-fst2strings"/>
+    </pipeline>
+  </mode>
+
+  <mode name="war-morph" install="yes">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="war.automorf.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="war-lexc" install="yes">
+    <pipeline>
+      <program name="hfst-lookup">
+        <file name=".deps/war.LR.lexc.hfst"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="war-gener" install="yes">
+    <pipeline>
+      <program name="lt-proc -g">
+        <file name="war.autogen.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="war-tagger" install="yes">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="war.automorf.bin"/>
+      </program>
+      <program name="cg-proc -w">
+        <file name="war.rlx.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="war-disam" install="yes">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="war.automorf.bin"/>
+      </program>
+      <program name="cg-conv -a"/>
+      <program name="vislcg3 --trace --grammar">
+        <file name="war.rlx.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+</modes>
+
