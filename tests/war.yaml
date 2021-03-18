@@ -1,0 +1,150 @@
+Config:
+  hfst:
+    App: hfst-lookup
+    Gen: ../war.autogen.hfst
+    Morph: ../war.automorf.hfst
+Tests:
+  Actions Completed/In Progress:
+    ' ka <pr><fut>':
+    - ka
+    ' na/pa <vaux><past><pres>':
+    - na/pa
+  Beneficiary:
+    ha<prep><sg>:
+    - ha
+    han mga<prep><pl>:
+    - han mga
+    kan...ngan kan...<prep><pl>:
+    - kan...ngan kan..
+    kan<prep><sg>:
+    - kan
+    mga<det><pl>:
+    - mga
+    ngan <det><pl>:
+    - ngan
+    para<prep>:
+    - ''
+  Demonstrative Pronouns: {}
+  Mag:
+    computer<v><tv><past>:
+    - mag-computer
+    guitar<v><tv><fut>:
+    - mag-guitar
+    kape<v><tv><pres>:
+    - magkape
+  Nag:
+    adobo<v><tv><pres>:
+    - nag-aadobo
+    dyaket<v><tv><fut>:
+    - 'magdyaket '
+    tv<v><tv><past>:
+    - nag-TV
+  Negatives:
+    diri<adv><fut>:
+    - diri
+    waray<adv><past><pres>:
+    - waray
+  Nouns:
+    Amerikano<n>:
+    - Amerikano
+    Babaye<n>:
+    - babaye
+    Estudyante<n>:
+    - estudyante
+    Lalake<n>:
+    - lalake
+    Mga<det><pl>:
+    - mga
+    Sangkay<n>:
+    - ' Friend'
+  Pag:
+    bus <v><tv><pres>:
+    - pagbus
+    piano <v><tv><past>:
+    - pagpiano
+  Parts of Speech: {}
+  Personal Nouns:
+    Ako<prn><pers><p1><sg>:
+    - Ako
+    Akon<prn><p1><sg>:
+    - Ako
+    Amon<prn><pers><p1><excl><pl>:
+    - Ha amon
+    Aton<prn><pers><p1><incl><pl>:
+    - Ha aton
+    Hira <prn><pers><p3><pl>:
+    - Hira
+    Hiya <prn><pers><p3><sg>:
+    - Hiya
+    Ikaw<prn><pers><p2><sg>:
+    - Ka
+    Imo<prn><pers><p2><sg>:
+    - Ha imo
+    Ira<prn><pers><p3><pl>:
+    - Ha ira
+    Iya<prn><pers><p3><sg>:
+    - Ha iya
+    Iyo<prn><pers><p2><pl>:
+    - Ha iyo
+    Kami<prn><pers><p1><excl><pl>:
+    - Kami
+    Kamo <prn><pers><p2><pl>:
+    - Kamo
+    Kita<prn><pers><p1><incl><pl>:
+    - Kita
+  Possessions:
+    han mga<prn><pl>:
+    - han mag
+    han/hin<prn><sg>:
+    - han/hin
+    ni<prn><sg>:
+    - ni
+    nira<prn><pl>:
+    - nira
+  Question Markers:
+    ba<part>:
+    - ba
+    ka<pr>:
+    - ka
+  Verbalizing Nouns: {}
+  Verbs:
+    aram<v><tv><fut>:
+    - mag-aram
+    aram<v><tv><imp>:
+    - pag-aram
+    aram<v><tv><past>:
+    - nag-aram
+    aram<v><tv><pres>:
+    - nag-aaram
+    bantay<v><tv><fut>:
+    - magbantay
+    bantay<v><tv><imp>:
+    - pagbantay
+    bantay<v><tv><past>:
+    - nagbantay
+    bantay<v><tv><pres>:
+    - nagbabantay
+    dara<v><tv><fut>:
+    - magdara
+    dara<v><tv><imp>:
+    - pagdara
+    dara<v><tv><past>:
+    - nagdara
+    dara<v><tv><pres>:
+    - nagdadara
+    mando<v><tv><fut>:
+    - magmando
+    mando<v><tv><imp>:
+    - pagmando
+    mando<v><tv><past>:
+    - nagmando
+    mando<v><tv><pres>:
+    - nagmamando
+    trabaho<v><tv><fut>:
+    - magtrabaho
+    trabaho<v><tv><imp>:
+    - pagtrabaho
+    trabaho<v><tv><past>:
+    - nagtrabaho
+    trabaho<v><tv><pres>:
+    - nagtratrabaho
