@@ -42,13 +42,14 @@
 
 PATTERNS
 NounRoot RegNounInfl
+Determiners(1) [<det>: ] Determiners(2):
+:VerbPrefixes VerbStems(1) [<v>: ] VerbStems(2): VerbPrefixes: 
 Punctuation
 
 
 LEXICON RegNounInfl
 
 <n><sg>:
-<n><pl>:>s
 
 
 ###############################################################################
@@ -57,7 +58,31 @@ LEXICON RegNounInfl
 
 LEXICON NounRoot
 
-house:house   # A noun
+bata:bata           # child
+kahoy:kahoy         # tree
+harok:harok         # kiss
+sangkay:sangkay     # friend 
+lalaki:lalaki       # man
+babaye:babaye       # woman
+urupod:urupod       # relative
+mananap:mananap     # insect
+
+LEXICON Determiners(2)
+mga:mga    <pl>
+ngan:ngan  <pl>
+
+LEXICON VerbPrefixes
+<fut>:mag>
+<past>:nag> 
+<pres>:nag{C}{V}>
+<imp>:pag>
+
+LEXICON VerbStems(2)
+dara:dara         <tv>
+mando:mando       <tv>
+trabaho:trabaho   <tv>
+aram:aram         <tv>
+bantay:bantay     <tv>
 
 
 LEXICON Punctuation

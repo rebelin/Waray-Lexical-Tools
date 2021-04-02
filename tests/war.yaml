@@ -34,9 +34,9 @@ Tests:
     - magkape
   Nag:
     adobo<v><tv><pres>:
-    - nag-aadobo
+    - nagaadobo
     dyaket<v><tv><fut>:
-    - 'magdyaket '
+    - magdyaket
     tv<v><tv><past>:
     - nag-TV
   Negatives:
@@ -56,12 +56,12 @@ Tests:
     Mga<det><pl>:
     - mga
     Sangkay<n>:
-    - ' Friend'
+    - Sangkay
   Pag:
     bus <v><tv><pres>:
-    - pagbus
+    - pag-bus
     piano <v><tv><past>:
-    - pagpiano
+    - pag-piano
   Parts of Speech: {}
   Personal Nouns:
     Ako<prn><pers><p1><sg>:
@@ -109,13 +109,13 @@ Tests:
   Verbalizing Nouns: {}
   Verbs:
     aram<v><tv><fut>:
-    - mag-aram
+    - magaram
     aram<v><tv><imp>:
-    - pag-aram
+    - pagaram
     aram<v><tv><past>:
-    - nag-aram
+    - nagaram
     aram<v><tv><pres>:
-    - nag-aaram
+    - nagaaram
     bantay<v><tv><fut>:
     - magbantay
     bantay<v><tv><imp>:
