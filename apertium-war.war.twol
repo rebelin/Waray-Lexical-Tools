@@ -1,17 +1,47 @@
 Alphabet
  A B C D E F G H I J K L M N Ñ O P R S T U W Y Z
  a b c d e f g h i j k l m n ñ o p r s t u w y z
- %{A%}:a %>:0  ;
+ !%{A%}:a 
+ %>:0  
+ %{C1%}:b %{C1%}:c %{C1%}:d %{C1%}:f %{C1%}:g %{C1%}:h %{C1%}:j %{C1%}:k %{C1%}:l %{C1%}:m %{C1%}:n %{C1%}:ñ %{C1%}:p %{C1%}:r %{C1%}:s %{C1%}:t %{C1%}:w %{C1%}:y %{C1%}:z %{C1%}:0
+ %{C2%}:b %{C2%}:c %{C2%}:d %{C2%}:f %{C2%}:g %{C2%}:h %{C2%}:j %{C2%}:k %{C2%}:l %{C2%}:m %{C2%}:n %{C2%}:ñ %{C2%}:p %{C2%}:r %{C2%}:s %{C2%}:t %{C2%}:w %{C2%}:y %{C2%}:z %{C2%}:0
+
+ %{V%}:a %{V%}:e %{V%}:i %{V%}:o %{V%}:u
+ ;
 
 Sets
 
 Vowel = A E I O U
         a e i o u ;
 
+Cons = B C D F G H J K L M N Ñ P R S T W Y Z
+       b c d f g h j k l m n ñ p r s t w y z ;
+
 Rules
 
-"Remove suffix vowel with vowel-ending stem"
-i:0 <=> Vow %{VSUF%}:0 _ [ m | n ] ;
+!"Remove suffix vowel with vowel-ending stem"
+!i:0 <=> Vow %{VSUF%}:0 _ [ m | n ] ;
+
+"Reduplicating Vowel"
+%{V%}:Vy <=> _ [ : - Vowel: ]* Vx: ;
+         where Vx in Vowel
+               Vy in Vowel
+        matched ;
+
+"No Consonant Reduplication"
+%{C1%}:0 <=> _ %{C2%}: %{V%}: %>: Vowel: ;
+
+"Reduplicating First Consonant"
+%{C1%}:Cy <=> _ %{C2%}: %{V%}: %>: Cx: ;
+         where Cx in Cons
+               Cy in Cons
+        matched ;
+
+"Reduplicating Second Consonant"
+%{C2%}:Cy <=> %{C1%}: _ %{V%}: %>: Cons: Cx: ;
+         where Cx in Cons
+               Cy in Cons
+        matched ;
 
 ! Resources:
 ! http://wiki.apertium.org/wiki/Starting_a_new_language_with_HFST#Enter_twol

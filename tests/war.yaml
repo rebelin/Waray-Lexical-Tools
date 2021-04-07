@@ -23,7 +23,52 @@ Tests:
     ngan <det><pl>:
     - ngan
     para<prep>:
-    - ''
+    - para
+  Class I (General):
+    ako<prn><pers><p1><sg>:
+    - ako
+    hira<prn><pers><p3><pl>:
+    - hira
+    hiya <prn><pers><p3><sg>:
+    - hiya
+    ikaw<prn><pers><p2><sg>:
+    - ka
+    kami<prn><pers><p1><excl><pl>:
+    - kami
+    kamo<prn><pers><p2><pl>:
+    - kamo
+    kita<prn><pers><p1><incl><pl>:
+    - kita
+  Class II (Possessive):
+    ako<prn><pers><p1><sg><poss>:
+    - ko
+    hira<prn><pers><p3><pl><poss>:
+    - nira
+    hiya <prn><pers><p3><sg><poss>:
+    - niya
+    ikaw<prn><pers><p2><sg><pos>:
+    - mo
+    kami<prn><pers><p1><excl><pl><poss>:
+    - namon
+    kamo<prn><pers><p2><pl><poss>:
+    - niyo
+    kita<prn><pers><p1><incl><pl><poss>:
+    - naton
+  Class III (Oblique):
+    ako<prn><pers><p1><sg><obl>:
+    - akon
+    hira<prn><pers><p3><pl><obl>:
+    - ira
+    hiya<prn><pers><p3><sg><obl>:
+    - iya
+    ikaw<prn><pers><p2><sg><obl>:
+    - imo
+    kami<prn><pers><p1><excl><pl><obl>:
+    - amon
+    kamo<prn><pers><p2><pl><obl>:
+    - iyo
+    kita<prn><pers><p1><incl><pl><obl>:
+    - aton
   Demonstrative Pronouns: {}
   Mag:
     computer<v><tv><past>:
@@ -47,51 +92,21 @@ Tests:
   Nouns:
     Amerikano<n>:
     - Amerikano
-    Babaye<n>:
+    babaye<n>:
     - babaye
-    Estudyante<n>:
-    - estudyante
-    Lalake<n>:
+    lalake<n>:
     - lalake
-    Mga<det><pl>:
-    - mga
-    Sangkay<n>:
-    - Sangkay
+    sangkay<n>:
+    - sangkay
+    estudyante<n>:
+    - estudyante
   Pag:
-    bus <v><tv><pres>:
+    bus<v><tv><pres>:
     - pag-bus
-    piano <v><tv><past>:
+    piano<v><tv><past>:
     - pag-piano
   Parts of Speech: {}
-  Personal Nouns:
-    Ako<prn><pers><p1><sg>:
-    - Ako
-    Akon<prn><p1><sg>:
-    - Ako
-    Amon<prn><pers><p1><excl><pl>:
-    - Ha amon
-    Aton<prn><pers><p1><incl><pl>:
-    - Ha aton
-    Hira <prn><pers><p3><pl>:
-    - Hira
-    Hiya <prn><pers><p3><sg>:
-    - Hiya
-    Ikaw<prn><pers><p2><sg>:
-    - Ka
-    Imo<prn><pers><p2><sg>:
-    - Ha imo
-    Ira<prn><pers><p3><pl>:
-    - Ha ira
-    Iya<prn><pers><p3><sg>:
-    - Ha iya
-    Iyo<prn><pers><p2><pl>:
-    - Ha iyo
-    Kami<prn><pers><p1><excl><pl>:
-    - Kami
-    Kamo <prn><pers><p2><pl>:
-    - Kamo
-    Kita<prn><pers><p1><incl><pl>:
-    - Kita
+  Personal Nouns: {}
   Possessions:
     han mga<prn><pl>:
     - han mag

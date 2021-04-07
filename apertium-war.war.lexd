@@ -44,6 +44,7 @@ PATTERNS
 NounRoot RegNounInfl
 Determiners(1) [<det>: ] Determiners(2):
 :VerbPrefixes VerbStems(1) [<v>: ] VerbStems(2): VerbPrefixes: 
+
 Punctuation
 
 
@@ -58,6 +59,8 @@ LEXICON RegNounInfl
 
 LEXICON NounRoot
 
+Amerikano:Amerikano # American
+estudante:estudante # student
 bata:bata           # child
 kahoy:kahoy         # tree
 harok:harok         # kiss
@@ -67,14 +70,32 @@ babaye:babaye       # woman
 urupod:urupod       # relative
 mananap:mananap     # insect
 
+LEXICON PersClassI 
+ako:ako         # I 
+ikaw:ikaw       # you
+ikaw:ka         # 
+hiya:hiya       # she
+kita:kita 
+kami:kami
+kamo:kamo   
+hira:hira       # they
+
 LEXICON Determiners(2)
 mga:mga    <pl>
 ngan:ngan  <pl>
+ra:ra      <pl>
+
+LEXICON Particles
+ba:ba
+na:na 
+pa:pa
+liwat:liwat
+gihapo:gihapo
 
 LEXICON VerbPrefixes
 <fut>:mag>
 <past>:nag> 
-<pres>:nag{C}{V}>
+<pres>:nag>{C1}{C2}{V}>
 <imp>:pag>
 
 LEXICON VerbStems(2)
@@ -84,6 +105,9 @@ trabaho:trabaho   <tv>
 aram:aram         <tv>
 bantay:bantay     <tv>
 
+LEXICON Beneficiary
+ha:ha 
+han
 
 LEXICON Punctuation
 
