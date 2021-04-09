@@ -33,6 +33,7 @@
 # <past>   # Past tense
 # <pres>   # Present tense
 # <fut>    # Future tense
+# <futd>   # Derivative future
 # <imp>    # Imperative
 # >        # Morpheme boundary
 
@@ -44,9 +45,9 @@ PATTERNS
 NounRoot RegNounInfl
 Determiners(1) [<det>: ] Determiners(2):
 :VerbPrefixes VerbStems(1) [<v>: ] VerbStems(2): VerbPrefixes: 
-
+Pronouns
 Punctuation
-
+Adverbs
 
 LEXICON RegNounInfl
 
@@ -59,41 +60,76 @@ LEXICON RegNounInfl
 
 LEXICON NounRoot
 
-Amerikano:Amerikano # American
-estudante:estudante # student
-bata:bata           # child
-kahoy:kahoy         # tree
-harok:harok         # kiss
-sangkay:sangkay     # friend 
-lalaki:lalaki       # man
-babaye:babaye       # woman
-urupod:urupod       # relative
-mananap:mananap     # insect
+Amerikano:Amerikano     # American
+estudante:estudante     # student
+bata:bata               # child
+kahoy:kahoy             # tree
+harok:harok             # kiss
+sangkay:sangkay         # friend 
+lalaki:lalaki           # man
+babaye:babaye           # woman
+urupod:urupod           # relative
+mananap:mananap         # insect
 
-LEXICON PersClassI 
-ako:ako         # I 
-ikaw:ikaw       # you
-ikaw:ka         # 
-hiya:hiya       # she
-kita:kita 
-kami:kami
-kamo:kamo   
-hira:hira       # they
+LEXICON Pronouns 
+######### Class I #########
+ako<prn><pers><p1><sg>:ako              # I 
+ikaw<prn><pers><p2><sg>:ikaw            # you
+ikaw<prn><pers><p2><sg>:ka 
+hiya<prn><pers><p3><sg>:hiya            # he/she
+kita<prn><pers><p1><incl><p1>:kita      # (incl) we
+kami<prn><pers><p1><excl><pl>:kami      # (excl) we
+kamo<prn><pers><p2><pl>:kamo            # you    
+hira<prn><pers><p3><p1>:hira            # they
+######### Class II #########
+ako<prn><pers><p1><sg><poss>:nakon          # my
+ako<prn><pers><p1><sg><poss>:ko
+ikaw<prn><pers><p2><sg><poss>:nimo          # your
+ikaw<prn><pers><p2><sg><poss>:mo            # your
+hiya<prn><pers><p3><sg><poss>:niya          # his/her 
+kita<prn><pers><p1><incl><pl><poss>:naton   # (incl) our
+kami<prn><pers><p1><excl><pl><poss>:namon   # (excl) our
+kamo<prn><pers><p2><pl>:niyo                # your
+hira<prn><pers><p3><pl><poss>:nira          # their 
+######### Class III ##########
+ako<prn><pers><p1><sg><obl>:akon            # me
+ikaw<prn><pers><p2><sg><obl>:imo            # you 
+hiya<prn><pers><p3><sg><obl>:iya            # him/her 
+kita<prn><pers><p1><incl><pl><obl>:aton     # (incl) us
+kami<prn><pers><p1><excl><pl><obl>:amon     # (excl) us
+kamo<prn><pers><p2><pl><obl>:iyo            # you
+hira<prn><pers><p3><pl><obl>:ira            # them        
+######### General Pronouns #########
+ini<prn><det><dem>:ini                      # this (very near the speaker) 
+hini<prn><det><dem>:hini 
+iton<prn><det><dem>:ito                     # that (near the speaker)
+iton<prn><det><dem>:ito
+hiton<prn><det><dem>:hiton 
+adto<prn><det><dem>:adto                    # that over there (far from the speaker)
+hadto<prn><det><dem>:hadto       
 
 LEXICON Determiners(2)
-mga:mga    <pl>
-ngan:ngan  <pl>
-ra:ra      <pl>
-
-LEXICON Particles
-ba:ba
-na:na 
-pa:pa
-liwat:liwat
-gihapo:gihapo
+mga:mga         <pl>
+ngan:ngan       <pl>
+ra:ra           <pl>
+hi:hi           <det><sg>
+hi:hira         <det><pl>
+an:an           <det><sg>
+an:an\ mga      <det><pl>
+ni:ni           <det><sg><poss>
+nira:nira       <det><pl><poss>
+han:han         <det><sg><poss>
+han:han\ mga    <det><pl><poss>
+hin:hin         <det><sg><poss>
+hin:hin\ mga    <det><pl><poss>
+kan:kan         <det><sg><obl>
+kan:kan\ ngan   <det><pl><obl>
+ha:ha           <det><sg><obl>
+ha:ha\ mga      <det><pl><obl>
 
 LEXICON VerbPrefixes
-<fut>:mag>
+<futd>:mag>     
+<fut>:ma>
 <past>:nag> 
 <pres>:nag>{C1}{C2}{V}>
 <imp>:pag>
@@ -105,9 +141,20 @@ trabaho:trabaho   <tv>
 aram:aram         <tv>
 bantay:bantay     <tv>
 
-LEXICON Beneficiary
-ha:ha 
-han
+LEXICON Adverbs
+na:na 
+pa:pa
+ka:ka
+ba:ba
+dinhi:dinhi       # here (very near)
+dida:dida         # there (near)
+didto:didto       # there (far)
+liwat:liwat       # also/too/again 
+gihapon:gihapon   
+
+LEXICON Negatives
+waray:waray 
+diri:diri
 
 LEXICON Punctuation
 

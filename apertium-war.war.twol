@@ -1,10 +1,10 @@
 Alphabet
- A B C D E F G H I J K L M N Ñ O P R S T U W Y Z
- a b c d e f g h i j k l m n ñ o p r s t u w y z
+ A B C D E F G H I J K L M N Ñ O P Q R S T U V W X Y Z
+ a b c d e f g h i j k l m n ñ o p q r s t u v w x y z
  !%{A%}:a 
  %>:0  
- %{C1%}:b %{C1%}:c %{C1%}:d %{C1%}:f %{C1%}:g %{C1%}:h %{C1%}:j %{C1%}:k %{C1%}:l %{C1%}:m %{C1%}:n %{C1%}:ñ %{C1%}:p %{C1%}:r %{C1%}:s %{C1%}:t %{C1%}:w %{C1%}:y %{C1%}:z %{C1%}:0
- %{C2%}:b %{C2%}:c %{C2%}:d %{C2%}:f %{C2%}:g %{C2%}:h %{C2%}:j %{C2%}:k %{C2%}:l %{C2%}:m %{C2%}:n %{C2%}:ñ %{C2%}:p %{C2%}:r %{C2%}:s %{C2%}:t %{C2%}:w %{C2%}:y %{C2%}:z %{C2%}:0
+ %{C1%}:b %{C1%}:c %{C1%}:d %{C1%}:f %{C1%}:g %{C1%}:h %{C1%}:j %{C1%}:k %{C1%}:l %{C1%}:m %{C1%}:n %{C1%}:ñ %{C1%}:p %{C1%}:q %{C1%}:r %{C1%}:s %{C1%}:t %{C1%}:v %{C1%}:w %{C1%}:x %{C1%}:y %{C1%}:z %{C1%}:0
+ %{C2%}:b %{C2%}:c %{C2%}:d %{C2%}:f %{C2%}:g %{C2%}:h %{C2%}:j %{C2%}:k %{C2%}:l %{C2%}:m %{C2%}:n %{C2%}:ñ %{C2%}:p %{C2%}:q %{C2%}:r %{C2%}:s %{C2%}:t %{C2%}:v %{C2%}:w %{C2%}:x %{C2%}:y %{C2%}:z %{C2%}:0
 
  %{V%}:a %{V%}:e %{V%}:i %{V%}:o %{V%}:u
  ;
@@ -14,8 +14,8 @@ Sets
 Vowel = A E I O U
         a e i o u ;
 
-Cons = B C D F G H J K L M N Ñ P R S T W Y Z
-       b c d f g h j k l m n ñ p r s t w y z ;
+Cons = B C D F G H J K L M N Ñ P Q R S T V W X Y Z
+       b c d f g h j k l m n ñ p q r s t v w x y z ;
 
 Rules
 
