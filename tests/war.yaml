@@ -5,48 +5,46 @@ Config:
     Morph: ../war.automorf.hfst
 Tests:
   Actions Completed/In Progress:
-    ' ka <pr><fut>':
+    ka<adv>:
     - ka
-    ' na/pa <vaux><past><pres>':
-    - na/pa
+    na<adv>:
+    - na
+    pa<adv>:
+    - pa
   Beneficiary:
-    ha<prep><sg>:
+    ha<det><obl>:
     - ha
-    han mga<prep><pl>:
-    - han mga
-    kan...ngan kan...<prep><pl>:
-    - kan...ngan kan..
-    kan<prep><sg>:
+    kan<det><obl>:
     - kan
     mga<det><pl>:
     - mga
-    ngan <det><pl>:
+    ngan<det><pl>:
     - ngan
-    para<prep>:
+    para<det><nom>:
     - para
   Class I (General):
-    ako<prn><pers><p1><sg>:
+    ako<prn><pers><p1><sg><nom>:
     - ako
-    hira<prn><pers><p3><pl>:
+    hira<prn><pers><p3><pl><nom>:
     - hira
-    hiya <prn><pers><p3><sg>:
+    hiya <prn><pers><p3><sg><nom>:
     - hiya
-    ikaw<prn><pers><p2><sg>:
+    ikaw<prn><pers><p2><sg><nom>:
     - ka
-    kami<prn><pers><p1><excl><pl>:
+    kami<prn><pers><p1><excl><pl><nom>:
     - kami
-    kamo<prn><pers><p2><pl>:
+    kamo<prn><pers><p2><pl><nom>:
     - kamo
-    kita<prn><pers><p1><incl><pl>:
+    kita<prn><pers><p1><incl><pl><nom>:
     - kita
   Class II (Possessive):
     ako<prn><pers><p1><sg><poss>:
     - ko
     hira<prn><pers><p3><pl><poss>:
     - nira
-    hiya <prn><pers><p3><sg><poss>:
+    hiya<prn><pers><p3><sg><poss>:
     - niya
-    ikaw<prn><pers><p2><sg><pos>:
+    ikaw<prn><pers><p2><sg><poss>:
     - mo
     kami<prn><pers><p1><excl><pl><poss>:
     - namon
@@ -71,59 +69,61 @@ Tests:
     - aton
   Demonstrative Pronouns: {}
   Mag:
-    computer<v><tv><past>:
+    computer<v><tv><futd>:
     - mag-computer
-    guitar<v><tv><fut>:
+    guitar<v><tv><futd>:
     - mag-guitar
-    kape<v><tv><pres>:
+    kape<v><tv><futd>:
     - magkape
   Nag:
     adobo<v><tv><pres>:
     - nagaadobo
-    dyaket<v><tv><fut>:
-    - magdyaket
+    dyaket<v><tv><past>:
+    - nagdyaket
     tv<v><tv><past>:
     - nag-TV
   Negatives:
-    diri<adv><fut>:
+    diri<det><adv>:
     - diri
-    waray<adv><past><pres>:
+    waray<det><adv>:
     - waray
   Nouns:
     Amerikano<n>:
     - Amerikano
     babaye<n>:
     - babaye
-    lalake<n>:
-    - lalake
-    sangkay<n>:
-    - sangkay
     estudyante<n>:
     - estudyante
+    lalake<n>:
+    - lalaki
+    sangkay<n>:
+    - sangkay
   Pag:
-    bus<v><tv><pres>:
+    bus <v><tv><imp>:
     - pag-bus
-    piano<v><tv><past>:
+    piano <v><tv><imp>:
     - pag-piano
   Parts of Speech: {}
   Personal Nouns: {}
   Possessions:
-    han mga<prn><pl>:
-    - han mag
-    han/hin<prn><sg>:
-    - han/hin
-    ni<prn><sg>:
+    han<det><poss>:
+    - han
+    hi<det><poss>:
+    - hi
+    hi<det><poss><pl>:
+    - hira
+    hin<det><poss>:
+    - hin
+    ni<det><poss>:
     - ni
-    nira<prn><pl>:
+    ni<det><poss><pl>:
     - nira
   Question Markers:
-    ba<part>:
+    ba<vaux>:
     - ba
-    ka<pr>:
-    - ka
   Verbalizing Nouns: {}
   Verbs:
-    aram<v><tv><fut>:
+    aram<v><tv><futd>:
     - magaram
     aram<v><tv><imp>:
     - pagaram
@@ -131,7 +131,7 @@ Tests:
     - nagaram
     aram<v><tv><pres>:
     - nagaaram
-    bantay<v><tv><fut>:
+    bantay<v><tv><futd>:
     - magbantay
     bantay<v><tv><imp>:
     - pagbantay
@@ -139,7 +139,7 @@ Tests:
     - nagbantay
     bantay<v><tv><pres>:
     - nagbabantay
-    dara<v><tv><fut>:
+    dara<v><tv><futd>:
     - magdara
     dara<v><tv><imp>:
     - pagdara
@@ -147,7 +147,7 @@ Tests:
     - nagdara
     dara<v><tv><pres>:
     - nagdadara
-    mando<v><tv><fut>:
+    mando<v><tv><futd>:
     - magmando
     mando<v><tv><imp>:
     - pagmando
@@ -155,7 +155,7 @@ Tests:
     - nagmando
     mando<v><tv><pres>:
     - nagmamando
-    trabaho<v><tv><fut>:
+    trabaho<v><tv><futd>:
     - magtrabaho
     trabaho<v><tv><imp>:
     - pagtrabaho

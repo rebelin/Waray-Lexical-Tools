@@ -11,6 +11,9 @@
 # <adj>    # Adjective
 # <pr>     # Preposition
 # <det>    # Determiner
+# <obl>    # Oblique
+# <nom>    # Nominative 
+# <dem>    # Demonstrative
 
 # <sent>   # Sentence-ending punctuation
 # <guio>   # Hyphen
@@ -42,17 +45,14 @@
 ###############################################################################
 
 PATTERNS
-NounRoot RegNounInfl
-Determiners(1) [<det>: ] Determiners(2):
+NounRoot [<n>: ]
+Determiners(1) [<det>: ] Determiners(2): 
+Determiners(1) PluralDet
 :VerbPrefixes VerbStems(1) [<v>: ] VerbStems(2): VerbPrefixes: 
-Pronouns
+Pronouns 
+Adverbs [<adv>: ]
+Auxiliary [<vaux>: ]
 Punctuation
-Adverbs
-
-LEXICON RegNounInfl
-
-<n><sg>:
-
 
 ###############################################################################
 ###                          L E X I C O N                                  ###
@@ -61,27 +61,36 @@ LEXICON RegNounInfl
 LEXICON NounRoot
 
 Amerikano:Amerikano     # American
-estudante:estudante     # student
+estudyante:estudyante   # student
 bata:bata               # child
 kahoy:kahoy             # tree
 harok:harok             # kiss
 sangkay:sangkay         # friend 
-lalaki:lalaki           # man
+lalake:lalake           # man
+lalake:lalaki           # man          Dir/LR
 babaye:babaye           # woman
 urupod:urupod           # relative
 mananap:mananap         # insect
+adobo:adobo       
+dyaket:dyaket           # jacket
+kape:kape               # coffee
+TV:{-}TV
+computer:{-}computer 
+bus:{-}bus
+piano:{-}piano
+guitar:{-}guitar
 
 LEXICON Pronouns 
-######### Class I #########
-ako<prn><pers><p1><sg>:ako              # I 
-ikaw<prn><pers><p2><sg>:ikaw            # you
-ikaw<prn><pers><p2><sg>:ka 
-hiya<prn><pers><p3><sg>:hiya            # he/she
-kita<prn><pers><p1><incl><p1>:kita      # (incl) we
-kami<prn><pers><p1><excl><pl>:kami      # (excl) we
-kamo<prn><pers><p2><pl>:kamo            # you    
-hira<prn><pers><p3><p1>:hira            # they
-######### Class II #########
+#========= Class I =========#
+ako<prn><pers><p1><sg><nom>:ako              # I 
+ikaw<prn><pers><p2><sg><nom>:ikaw            # you
+ikaw<prn><pers><p2><sg><nom>:ka 
+hiya<prn><pers><p3><sg><nom>:hiya           # he/she    # disambiguate
+kita<prn><pers><p1><incl><p1><nom>:kita     # (incl) we
+kami<prn><pers><p1><excl><pl><nom>:kami     # (excl) we
+kamo<prn><pers><p2><pl><nom>:kamo           # you    
+hira<prn><pers><p3><p1><nom>:hira           # they
+#========== Class II ==========#
 ako<prn><pers><p1><sg><poss>:nakon          # my
 ako<prn><pers><p1><sg><poss>:ko
 ikaw<prn><pers><p2><sg><poss>:nimo          # your
@@ -89,9 +98,9 @@ ikaw<prn><pers><p2><sg><poss>:mo            # your
 hiya<prn><pers><p3><sg><poss>:niya          # his/her 
 kita<prn><pers><p1><incl><pl><poss>:naton   # (incl) our
 kami<prn><pers><p1><excl><pl><poss>:namon   # (excl) our
-kamo<prn><pers><p2><pl>:niyo                # your
+kamo<prn><pers><p2><pl><poss>:niyo          # your
 hira<prn><pers><p3><pl><poss>:nira          # their 
-######### Class III ##########
+#========== Class III ==========#
 ako<prn><pers><p1><sg><obl>:akon            # me
 ikaw<prn><pers><p2><sg><obl>:imo            # you 
 hiya<prn><pers><p3><sg><obl>:iya            # him/her 
@@ -99,7 +108,7 @@ kita<prn><pers><p1><incl><pl><obl>:aton     # (incl) us
 kami<prn><pers><p1><excl><pl><obl>:amon     # (excl) us
 kamo<prn><pers><p2><pl><obl>:iyo            # you
 hira<prn><pers><p3><pl><obl>:ira            # them        
-######### General Pronouns #########
+#========== General Pronouns ==========#
 ini<prn><det><dem>:ini                      # this (very near the speaker) 
 hini<prn><det><dem>:hini 
 iton<prn><det><dem>:ito                     # that (near the speaker)
@@ -109,23 +118,22 @@ adto<prn><det><dem>:adto                    # that over there (far from the spea
 hadto<prn><det><dem>:hadto       
 
 LEXICON Determiners(2)
-mga:mga         <pl>
-ngan:ngan       <pl>
-ra:ra           <pl>
-hi:hi           <det><sg>
-hi:hira         <det><pl>
-an:an           <det><sg>
-an:an\ mga      <det><pl>
-ni:ni           <det><sg><poss>
-nira:nira       <det><pl><poss>
-han:han         <det><sg><poss>
-han:han\ mga    <det><pl><poss>
-hin:hin         <det><sg><poss>
-hin:hin\ mga    <det><pl><poss>
-kan:kan         <det><sg><obl>
-kan:kan\ ngan   <det><pl><obl>
-ha:ha           <det><sg><obl>
-ha:ha\ mga      <det><pl><obl>
+an:an                       <nom>
+para:para                   <nom>
+mga:mga                     <pl>
+ngan:ngan                   <pl>
+ra:ra                       <pl>
+ha:ha                       <obl>
+kan:kan                     <obl>
+han:han                     <poss>
+hin:hin                     <poss>
+ni:ni                       <poss>
+hi:hi                       <poss>
+
+LEXICON PluralDet
+<det><poss>+ra<det><pl>:nira      # disambiguate
+<det><poss>+ra<det><pl>:hira      # disambiguate
+
 
 LEXICON VerbPrefixes
 <futd>:mag>     
@@ -141,20 +149,21 @@ trabaho:trabaho   <tv>
 aram:aram         <tv>
 bantay:bantay     <tv>
 
+LEXICON Auxiliary
+ba:ba
+
 LEXICON Adverbs
 na:na 
 pa:pa
 ka:ka
-ba:ba
-dinhi:dinhi       # here (very near)
-dida:dida         # there (near)
-didto:didto       # there (far)
-liwat:liwat       # also/too/again 
+dinhi:dinhi             # here (very near)
+dida:dida               # there (near)
+didto:didto             # there (far)
+liwat:liwat             # also/too/again 
 gihapon:gihapon   
-
-LEXICON Negatives
-waray:waray 
-diri:diri
+waray:waray       
+diri:diri    
+hin\ duro:hin\ duro     # extremely/very/so     
 
 LEXICON Punctuation
 
