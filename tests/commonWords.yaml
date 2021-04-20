@@ -1,0 +1,48 @@
+Config:
+  hfst:
+    App: hfst-lookup
+    Gen: ../war.autogen.hfst
+    Morph: ../war.automorf.hfst
+Tests:
+  UnknownWords:
+    nga<unk>: 
+      - nga 
+    tuna<n>: 
+      - tuna
+    nagkaada<unk>: 
+      - nagkaada
+    Dios<np>: 
+      - Dios
+    hito<unk>: 
+      - hito
+    uyon<unk>: 
+      - uyon
+    linarang<unk>: 
+      - linarang
+    adlaw<n>: 
+      - adlaw
+    may<unk>: 
+      - may
+    langit<unk>: 
+      - langit 
+    i<unk>: 
+      - i
+    klase<unk>: 
+      - klase
+    hayop<unk>: 
+      - hayop
+    gab<unk>: 
+      - gab 
+    katubigan<unk>: 
+      - katubigan
+    tagsa<unk>: 
+      - tagsa 
+    ngatanan<unk>: 
+      - ngatanan
+    kalamrag<unk>: 
+      - kalamrag
+    basi<unk>: 
+      - basi
+    nalupad<unk>: 
+      - nalupad
+    

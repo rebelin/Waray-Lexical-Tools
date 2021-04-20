@@ -3,6 +3,7 @@
 # Part of speech categories
 # <n>      # Noun
 # <prn>    # Pronoun
+# <np>     # Proper noun
 # <v>      # Verb
 # <adv>    # Adverb
 # <tv>     # Transitive verb
@@ -50,6 +51,7 @@ Determiners(1) [<det>: ] Determiners(2):
 Determiners(1) PluralDet
 :VerbPrefixes VerbStems(1) [<v>: ] VerbStems(2): VerbPrefixes: 
 Pronouns 
+ProperNouns [<np>: ]
 Adverbs [<adv>: ]
 Auxiliary [<vaux>: ]
 Punctuation
@@ -74,11 +76,16 @@ mananap:mananap         # insect
 adobo:adobo       
 dyaket:dyaket           # jacket
 kape:kape               # coffee
+tuna:tuna               # land 
+adlaw:adlaw             # day
 TV:{-}TV
 computer:{-}computer 
 bus:{-}bus
 piano:{-}piano
 guitar:{-}guitar
+
+LEXICON ProperNouns
+Dios:Dios               # God
 
 LEXICON Pronouns 
 #========= Class I =========#
