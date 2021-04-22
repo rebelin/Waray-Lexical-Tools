@@ -4,8 +4,9 @@
 # <n>      # Noun
 # <prn>    # Pronoun
 # <np>     # Proper noun
-# <v>      # Verb
+# <v>      # Verbl
 # <adv>    # Adverb
+# <pos>    # Possessive
 # <tv>     # Transitive verb
 # <iv>     # Intransitive verb
 # <vaux>   # Auxiliary verb
