@@ -5,13 +5,13 @@ Config:
     Morph: ../war.automorf.hfst
 Tests:
   UnknownWords:
-    nga<unk>: 
+    nga<det><link>: 
       - nga 
     tuna<n>: 
       - tuna
     nagkaada<unk>: 
       - nagkaada
-    Dios<np>: 
+    Dios<np><ant>: 
       - Dios
     hito<unk>: 
       - hito
@@ -32,7 +32,7 @@ Tests:
     hayop<unk>: 
       - hayop
     gab<unk>: 
-      - gab 
+      - gab
     katubigan<unk>: 
       - katubigan
     tagsa<unk>: 

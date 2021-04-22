@@ -27,7 +27,7 @@ Tests:
     - ako
     hira<prn><pers><p3><pl><nom>:
     - hira
-    hiya <prn><pers><p3><sg><nom>:
+    hiya<prn><pers><p3><sg><nom>:
     - hiya
     ikaw<prn><pers><p2><sg><nom>:
     - ka
@@ -38,19 +38,19 @@ Tests:
     kita<prn><pers><p1><incl><pl><nom>:
     - kita
   Class II (Possessive):
-    ako<prn><pers><p1><sg><poss>:
+    ako<prn><pers><p1><sg><pos>:
     - ko
-    hira<prn><pers><p3><pl><poss>:
+    hira<prn><pers><p3><pl><pos>:
     - nira
-    hiya<prn><pers><p3><sg><poss>:
+    hiya<prn><pers><p3><sg><pos>:
     - niya
-    ikaw<prn><pers><p2><sg><poss>:
+    ikaw<prn><pers><p2><sg><pos>:
     - mo
-    kami<prn><pers><p1><excl><pl><poss>:
+    kami<prn><pers><p1><excl><pl><pos>:
     - namon
-    kamo<prn><pers><p2><pl><poss>:
+    kamo<prn><pers><p2><pl><pos>:
     - niyo
-    kita<prn><pers><p1><incl><pl><poss>:
+    kita<prn><pers><p1><incl><pl><pos>:
     - naton
   Class III (Oblique):
     ako<prn><pers><p1><sg><obl>:
@@ -83,9 +83,9 @@ Tests:
     tv<v><tv><past>:
     - nag-TV
   Negatives:
-    diri<det><adv>:
+    diri<adv>:
     - diri
-    waray<det><adv>:
+    waray<adv>:
     - waray
   Nouns:
     Amerikano<n>:
@@ -99,24 +99,24 @@ Tests:
     sangkay<n>:
     - sangkay
   Pag:
-    bus <v><tv><imp>:
+    bus<v><tv><imp>:
     - pag-bus
-    piano <v><tv><imp>:
+    piano<v><tv><imp>:
     - pag-piano
   Parts of Speech: {}
   Personal Nouns: {}
   Possessions:
-    han<det><poss>:
+    han<det><pos>:
     - han
-    hi<det><poss>:
+    hi<det><pos>:
     - hi
-    hi<det><poss><pl>:
+    hi<det><pos><pl>:
     - hira
-    hin<det><poss>:
+    hin<det><pos>:
     - hin
-    ni<det><poss>:
+    ni<det><pos>:
     - ni
-    ni<det><poss><pl>:
+    ni<det><pos><pl>:
     - nira
   Question Markers:
     ba<vaux>:
