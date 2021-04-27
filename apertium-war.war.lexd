@@ -85,6 +85,7 @@ tuna:tuna               # land
 adlaw:adlaw             # day
 gabi:gab-i              # night
 gabi:gabi               # night         Dir/LR
+kwarta:kwarta           # money
 TV:{-}TV
 computer:{-}computer 
 bus:{-}bus
@@ -93,6 +94,8 @@ guitar:{-}guitar
 
 LEXICON ProperNouns(2)
 Dios:Dios           <ant>             # God
+Rico:Rico           <ant><m>    
+Bobong:Bobong       <ant><m>
 
 LEXICON Pronouns 
 #========= Class I =========#
@@ -147,8 +150,8 @@ nga:nga                     <link>
 manga:manga                 <link><pl>
 
 LEXICON PluralDet
-<det><pos>+ra<det><pl>:nira      # disambiguate
-<det><pos>+ra<det><pl>:hira      # disambiguate
+ni<det><pos>+ra<det><pl>:nira      # disambiguate
+hi<det><pos>+ra<det><pl>:hira      # disambiguate
 
 
 LEXICON VerbPrefixes
