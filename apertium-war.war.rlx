@@ -1,3 +1,5 @@
+# Link to Disambiguity Wiki Page: [https://wikis.swarthmore.edu/ling073/Waray/Disambiguation#Initial_Evaluation_of_Ambiguity]
+
 # Firstly, we need to define what tags should be considered sentence delimiters. For this example, only full stop is set as delimiter.
 DELIMITERS = "<.>" ;
 
