@@ -86,6 +86,7 @@ adlaw:adlaw             # day
 gabi:gab-i              # night
 gabi:gabi               # night         Dir/LR
 kwarta:kwarta           # money
+balay:balay             # house
 TV:{-}TV
 computer:{-}computer 
 bus:{-}bus
@@ -96,11 +97,13 @@ LEXICON ProperNouns(2)
 Dios:Dios           <ant>             # God
 Rico:Rico           <ant><m>    
 Bobong:Bobong       <ant><m>
+Rhoda:Rhoda         <ant><f>
+Romulo:Romulo       <ant><man>
 
 LEXICON Pronouns 
 #========= Class I =========#
-ako<prn><pers><p1><sg><nom>:ako              # I 
-ikaw<prn><pers><p2><sg><nom>:ikaw            # you
+ako<prn><pers><p1><sg><nom>:ako             # I 
+ikaw<prn><pers><p2><sg><nom>:ikaw           # you
 ikaw<prn><pers><p2><sg><nom>:ka 
 hiya<prn><pers><p3><sg><nom>:hiya           # he/she   
 kita<prn><pers><p1><incl><p1><nom>:kita     # (incl) we
