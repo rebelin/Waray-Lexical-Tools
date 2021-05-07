@@ -55,6 +55,7 @@ NounRoot [<n>: ]
 Determiners(1) [<det>: ] Determiners(2):
 PluralDet
 :VerbPrefixes VerbStems(1) [<v>: ] VerbStems(2): VerbPrefixes: 
+#:VerbInfixes VerbStems(1) [<v>: ] VerbStems(2): VerbInfixes:
 Pronouns 
 ProperNouns(1) [<np>: ] ProperNouns(2):
 Adverbs [<adv>: ]
@@ -87,6 +88,9 @@ gabi:gab-i              # night
 gabi:gabi               # night         Dir/LR
 kwarta:kwarta           # money
 balay:balay             # house
+bisita:bisita           # visitor
+laway:laway             # saliva
+
 TV:{-}TV
 computer:{-}computer 
 bus:{-}bus
@@ -160,9 +164,13 @@ hi<det><pos>+ra<det><pl>:hira      # disambiguate
 LEXICON VerbPrefixes
 <futd>:mag>     
 <fut>:ma>
-<past>:nag> 
+<past>:nag>
+<pres>:na> 
 <pres>:nag>{C1}{C2}{V}>
 <imp>:pag>
+
+#LEXICON VerbInfixes
+#<past>:inm>
 
 LEXICON VerbStems(2)
 dara:dara         <tv>
