@@ -1,7 +1,12 @@
 [
-	! Unify apostrophe styles
-	[ ?* [ ' (->) [ %` | ʻ | ’ | ‘ | ʼ ] ] ?* ] .o.
-
-	! Accept input without diacritics
-	[ ?* [ á (->) a ] ?* ]
+	! accept missing or alternative diacritics
+	[ ?* [ á (->) [ a | á ] ] ?* ] .o.
+	[ ?* [ Á (->) [ A | Á ] ] ?* ] .o.
+	[ ?* [ î (->) [ i | î ] ] ?* ] .o.
+	[ ?* [ í (->) [ i | í ] ] ?* ] .o.
+	[ ?* [ Í (->) [ I | Í ] ] ?* ] .o.
+	[ ?* [ ó (->) [ o | ó ] ] ?* ] .o.
+	[ ?* [ ô (->) [ o | ô ] ] ?* ] .o.
+	[ ?* [ ú (->) [ u | ú ] ] ?* ] .o.
+	[ ?* [ Ú (->) [ U | Ú ] ] ?* ] 
 ]
