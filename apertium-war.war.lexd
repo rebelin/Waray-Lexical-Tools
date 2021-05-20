@@ -20,6 +20,7 @@
 # <ind>    # Indefinite 
 # <link>   # Linker
 # <ant>    # Personal Name
+# <cnj>    # Conjunction
 
 # <sent>   # Sentence-ending punctuation
 # <guio>   # Hyphen
@@ -61,6 +62,10 @@ ProperNouns(1) [<np>: ] ProperNouns(2):
 Adverbs [<adv>: ]
 Auxiliary [<vaux>: ]
 Punctuation
+Numerals
+Num-Lex 
+Conjunctions
+Adjectives [<adj>: ]
 
 ###############################################################################
 ###                          L E X I C O N                                  ###
@@ -88,9 +93,47 @@ gabi:gab-i              # night
 gabi:gabi               # night         Dir/LR
 kwarta:kwarta           # money
 balay:balay             # house
+<<<<<<< HEAD
+apóy:apóy               # grandmother
+opisyáles:opisyáles     # officer
+diyos-diyos:diyos-diyos # idol
+hagdanán:hagdanán       # ladder
+kánto:kánto             # corner
+karsáda:karsáda         # street, road, paved
+kabulig:kabulig         # helper
+kudal:kudal             # fence
+kusina:kusina           # kitchen
+tindáhan:tindáhan       # store
+mángga:mángga           # mango
+merkádo:merkádo         # market
+nárs:nárs               # nurse
+ospitál:ospitál         # hospital
+sála:sála               # living room
+siné:siné               # movie
+lagas:lagas             # old person
+utan:utan               # cooked vegetable
+káhoy:káhoy             # tree, lumber
+kwárto:kwárto           # room
+lápis:lápis             # pencil
+líbro:líbro             # book
+matá:matá               # eye
+habubô:habubô           # problem
+simbahan:simbahan       # church
+lingkúran:lingkúran     # chair
+báso:báso               # glass
+kláse:kláse             # class
+lamésa:lamésa           # table
+lékyson:lékyson         # lesson
+papél:papél             # paper
+langit:langit           # heaven
+hayop:hayop             # animal
+aga:aga                 # morning
+tawo:tawo               # person
+=======
 bisita:bisita           # visitor
 laway:laway             # saliva
 
+>>>>>>> 0f1aa90040b6cc84426fc34ff5a0b16972992d98
 TV:{-}TV
 computer:{-}computer 
 bus:{-}bus
@@ -135,11 +178,14 @@ hira<prn><pers><p3><pl><obl>:ira            # them
 #========== General Pronouns ==========#
 ini<prn><det><dem>:ini                      # this (very near the speaker) 
 hini<prn><det><dem>:hini 
-iton<prn><det><dem>:ito                     # that (near the speaker)
+iton<prn><det><dem>:iton                     # that (near the speaker)
 iton<prn><det><dem>:ito
 hiton<prn><det><dem>:hiton 
 adto<prn><det><dem>:adto                    # that over there (far from the speaker)
 hadto<prn><det><dem>:hadto       
+dinhi<prn><det><dem>:dinhi	                # this (location)
+dida<prn><det><dem>:dida	                # that (location)
+didto<prn><det><dem>:didto                  # that over there (location)
 
 LEXICON Determiners(2)
 an:an                       <nom>
@@ -168,6 +214,7 @@ LEXICON VerbPrefixes
 <pres>:na> 
 <pres>:nag>{C1}{C2}{V}>
 <imp>:pag>
+<past>:{I}inm>
 
 #LEXICON VerbInfixes
 #<past>:inm>
@@ -178,9 +225,48 @@ mando:mando       <tv>
 trabaho:trabaho   <tv>
 aram:aram         <tv>
 bantay:bantay     <tv>
+sakay:sakay       <tv>
+palit:palit       <tv>
+hatag:hatag       <tv>
+kaon:kaon         <tv>
+lakat:lakat       <tv>
+inom:inom         <tv>
+sunod:sunod       <tv>
+kadto:kadto       <tv>
+simba:simba       <tv>
+balhim:balhim     <tv>
+adtó:adtó         <tv>
+táwa:táwa         <tv>  
+labá:labá         <tv> 
+matá:matá         <tv> 
+pasyáda:pasyáda   <tv> 
+táwag:táwag       <tv> 
+túkdaw:túkdaw     <tv> 
+yakán:yakán       <tv> 
+dáop:dáop         <tv> 
 
 LEXICON Auxiliary
 ba:ba
+
+LEXICON Adjectives
+daku:daku               # big 
+gutiay:gutiay           # small
+mabuság:mabuság         # white
+masayón:masayón         # easy
+bág-o:bág-o             # new
+dáan:dáan               # old
+dágat:dágat             # ocean, sea
+dámo:dámo               # many
+karsada:karsada         # road, way
+karáut:karáut           # bad
+malídong:malídong       # round
+makurî:makurî           # difficult
+punò:punò               # full 
+madíg-on:madíg-on       # strong (things)
+buótan:buótan           # nice
+mapasô:mapasô           # hot
+maduróto:maduróto       # industrious
+makasóg:makasóg         # strong (person)
 
 LEXICON Adverbs
 na:na 
@@ -194,6 +280,60 @@ gihapon:gihapon
 waray:waray       
 diri:diri    
 hin\ duro:hin\ duro     # extremely/very/so     
+
+LEXICON Numeral
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+
+PATTERN Numerals
+Numeral+ [<num>:]
+Numeral+ ([.]|[,]) Numeral+ [<num>:]
+
+PATTERN Numbers
+Num-Lex [<num>:]
+
+LEXICON Conjunctions
+# napulo kag usa -> 11
+# usa ka gatos -> 100
+
+kag<cnj>:kag
+ka<cnj>:ka		
+
+LEXICON Num-Lex
+usa         # 1
+duha        # 2
+tolo        # 3
+upat        # 4
+lima        # 5
+unom        # 6
+pito        # 7
+walo        # 8
+siam        # 9
+napulo      # 10
+karuháan    # 20
+katloan     # 30
+kap-atan    # 40
+kalim-an    # 50
+kaunman     # 60
+kapitoan    # 70
+kawaloan    # 80
+kasiaman    # 90
+gatos       # hundred
+yukot       # thousand
+milyon      # million
+bilyon      # billion
+trilyon     # trillion
+
+ALIAS Num-Lex Num-SecondLex
+
 
 LEXICON Punctuation
 
