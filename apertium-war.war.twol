@@ -7,6 +7,8 @@ Alphabet
  %{C2%}:b %{C2%}:c %{C2%}:d %{C2%}:f %{C2%}:g %{C2%}:h %{C2%}:j %{C2%}:k %{C2%}:l %{C2%}:m %{C2%}:n %{C2%}:ñ %{C2%}:p %{C2%}:q %{C2%}:r %{C2%}:s %{C2%}:t %{C2%}:v %{C2%}:w %{C2%}:x %{C2%}:y %{C2%}:z %{C2%}:0
 
  %{V%}:a %{V%}:e %{V%}:i %{V%}:o %{V%}:u
+
+ %{I%}:0
  ;
 
 Sets
@@ -42,6 +44,16 @@ Rules
          where Cx in Cons
                Cy in Cons
         matched ;
+
+"Adding Infix"
+%{I%}:Cy <=> _ i n m %>: Cx: ;
+        where Cx in Cons 
+              Cy in Cons
+        matched ;
+
+"Remove Second Consonant"
+Cx:0 <=> %{I%}: i n m %>: _ ;
+        where Cx in Cons ;
 
 ! Resources:
 ! http://wiki.apertium.org/wiki/Starting_a_new_language_with_HFST#Enter_twol
