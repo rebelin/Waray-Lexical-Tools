@@ -23,7 +23,6 @@ SELECT Determiner IF (0 (prn)) (1 (np)) ;
 # If word precedes at a determiner and least one proper noun, select determiner reading
 SELECT Determiner IF (0 (prn)) (1 (det)) (2 (np)) ;
 
-
 # Pronoun case
 REMOVE Determiner IF (0 (prn)) (1 EOS) ;
 
