@@ -1,0 +1,3019 @@
+"<Nagkikinain>"
+	"*Nagkikinain"
+"<->"
+	"-" guio
+"<kain>"
+	"*kain"
+"<ka>"
+	"ka" adv
+	"ka" cnj
+	"ikaw" prn pers p2 sg nom
+"<ngani>"
+	"*ngani"
+"<>"
+	"<>"
+		"<>" ""
+	"<>"
+		"<>" "" sent
+"<nga>"
+	"nga" det link
+"<pirmi>"
+	"*pirmi"
+"<ka>"
+	"ka" adv
+	"ka" cnj
+	"ikaw" prn pers p2 sg nom
+"<man>"
+	"*man"
+"<nasisidman>"
+	"*nasisidman"
+"<?>"
+	"?" sent
+
+"<Naabot>"
+	"*Naabot"
+"<ka>"
+	"ka" adv
+	"ka" cnj
+	"ikaw" prn pers p2 sg nom
+"<kun>"
+	"*kun"
+"<nakakalakat>"
+	"*nakakalakat"
+"<na>"
+	"na" adv
+"<>"
+	"<>"
+		"<>" ""
+	"<>"
+		"<>" "" sent
+"<iton>"
+	"iton" prn det dem
+"<lamrag>"
+	"*lamrag"
+"<.>"
+	"." sent
+
+"<Kapoy>"
+	"*Kapoy"
+"<ka>"
+	"ka" adv
+	"ka" cnj
+	"ikaw" prn pers p2 sg nom
+"<pirmi>"
+	"*pirmi"
+"<>"
+	"<>"
+		"<>" ""
+	"<>"
+		"<>" "" sent
+"<kay>"
+	"*kay"
+"<ha>"
+	"ha" det obl
+"<pag>"
+	"*pag"
+"<->"
+	"-" guio
+"<abot>"
+	"*abot"
+"<mo>"
+	"ikaw" prn pers p2 sg pos
+"<>"
+	"<>"
+		"<>" ""
+	"<>"
+		"<>" "" sent
+"<nagdudulom>"
+	"*nagdudulom"
+"<iton>"
+	"iton" prn det dem
+"<kalarakan>"
+	"*kalarakan"
+"<,>"
+	"," cm
+"<>"
+	"<>"
+		"<>" ""
+	"<>"
+		"<>" "" sent
+"<an>"
+	"an" det nom
+"<mga>"
+	"mga" det pl
+"<bituon>"
+	"*bituon"
+"<daw>"
+	"*daw"
+"<mga>"
+	"mga" det pl
+"<sada>"
+	"*sada"
+"<nga>"
+	"nga" det link
+"<tak>"
+	"*tak"
+"<->"
+	"-" guio
+"<om>"
+	"*om"
+"<,>"
+	"," cm
+"<>"
+	"<>"
+		"<>" ""
+	"<>"
+		"<>" "" sent
+"<an>"
+	"an" det nom
+"<mga>"
+	"mga" det pl
+"<hinimo>"
+	"*hinimo"
+"<han>"
+	"han" det def pos
+"<Makagarahom>"
+	"*Makagarahom"
+"<>"
+	"<>"
+		"<>" ""
+	"<>"
+		"<>" "" sent
+"<natikang>"
+	"*natikang"
+"<maghuring>"
+	"*maghuring"
+"<->"
+	"-" guio
+"<huring>"
+	"*huring"
+"<>"
+	"<>"
+		"<>" ""
+	"<>"
+		"<>" "" sent
+"<ha>"
+	"ha" det obl
+"<ira>"
+	"hira" prn pers p3 pl obl
+"<mga>"
+	"mga" det pl
+"<himangraw>"
+	"*himangraw"
+"<.>"
+	"." sent
+
+"<Pagal>"
+	"*Pagal"
+"<ka>"
+	"ka" adv
+	"ka" cnj
+	"ikaw" prn pers p2 sg nom
+"<gad>"
+	"*gad"
+"<nga>"
+	"nga" det link
+"<duro>"
+	"*duro"
+"<>"
+	"<>"
+		"<>" ""
+	"<>"
+		"<>" "" sent
+"<hiton>"
+	"hiton" prn det dem
+"<imo>"
+	"ikaw" prn pers p2 sg obl
+"<sudoy>"
+	"*sudoy"
+"<>"
+	"<>"
+		"<>" ""
+	"<>"
+		"<>" "" sent
+"<kay>"
+	"*kay"
+"<ha>"
+	"ha" det obl
+"<imo>"
+	"ikaw" prn pers p2 sg obl
+"<pagkakaturog>"
+	"*pagkakaturog"
+"<>"
+	"<>"
+		"<>" ""
+	"<>"
+		"<>" "" sent
+"<naturo>"
+	"*naturo"
+"<iton>"
+	"iton" prn det dem
+"<imo>"
+	"ikaw" prn pers p2 sg obl
+"<laway>"
+	"*laway"
+"<>"
+	"<>"
+		"<>" ""
+	"<>"
+		"<>" "" sent
+"<ngada>"
+	"*ngada"
+"<hiton>"
+	"hiton" prn det dem
+"<mga>"
+	"mga" det pl
+"<dahon>"
+	"*dahon"
+"<.>"
+	"." sent
+
+"<Malabad>"
+	"*Malabad"
+"<nga>"
+	"nga" det link
+"<bisita>"
+	"*bisita"
+"<inin>"
+	"*inin"
+"<lambunaw>"
+	"*lambunaw"
+"<,>"
+	"," cm
+"<>"
+	"<>"
+		"<>" ""
+	"<>"
+		"<>" "" sent
+"<labi>"
+	"*labi"
+"<na>"
+	"na" adv
+"<kun>"
+	"*kun"
+"<nasulod>"
+	"*nasulod"
+"<ha>"
+	"ha" det obl
+"<balay>"
+	"balay" n
+"<>"
+	"<>"
+		"<>" ""
+	"<>"
+		"<>" "" sent
+"<ug>"
+	"*ug"
+"<di>"
+	"*di"
+"<man>"
+	"*man"
+"<la>"
+	"*la"
+"<natuktok>"
+	"*natuktok"
+"<anay>"
+	"*anay"
+"<.>"
+	"." sent
+
+"<Tagtulo>"
+	"*Tagtulo"
+"<,>"
+	"," cm
+"<upat>"
+	"upat"
+"<pa>"
+	"pa" adv
+"<gud>"
+	"*gud"
+"<ka>"
+	"ka" adv
+	"ka" cnj
+	"ikaw" prn pers p2 sg nom
+"<adlaw>"
+	"adlaw" n
+"<>"
+	"<>"
+		"<>" ""
+	"<>"
+		"<>" "" sent
+"<kun>"
+	"*kun"
+"<mag>"
+	"*mag"
+"<->"
+	"-" guio
+"<inukoy>"
+	"*inukoy"
+"<ha>"
+	"ha" det obl
+"<amon>"
+	"kami" prn pers p1 excl pl obl
+"<balay>"
+	"balay" n
+"<.>"
+	"." sent
+
+"<Kay>"
+	"*Kay"
+"<iton>"
+	"iton" prn det dem
+"<amon>"
+	"kami" prn pers p1 excl pl obl
+"<bugas>"
+	"*bugas"
+"<,>"
+	"," cm
+"<>"
+	"<>"
+		"<>" ""
+	"<>"
+		"<>" "" sent
+"<iton>"
+	"iton" prn det dem
+"<amon>"
+	"kami" prn pers p1 excl pl obl
+"<sura>"
+	"*sura"
+"<,>"
+	"," cm
+"<>"
+	"<>"
+		"<>" ""
+	"<>"
+		"<>" "" sent
+"<iton>"
+	"iton" prn det dem
+"<imo>"
+	"ikaw" prn pers p2 sg obl
+"<bubutangan>"
+	"*bubutangan"
+"<>"
+	"<>"
+		"<>" ""
+	"<>"
+		"<>" "" sent
+"<sakto>"
+	"*sakto"
+"<gad>"
+	"*gad"
+"<la>"
+	"*la"
+"<para>"
+	"para" det nom
+"<yana>"
+	"*yana"
+"<.>"
+	"." sent
+
+"<Ngan>"
+	"ngan" det pl
+"<an>"
+	"an" det nom
+"<bug>"
+	"*bug"
+"<->"
+	"-" guio
+"<os>"
+	"*os"
+"<nga>"
+	"nga" det link
+"<tuna>"
+	"tuna" n
+"<may>"
+	"*may"
+"<uusa>"
+	"*uusa"
+"<la>"
+	"*la"
+"<an>"
+	"an" det nom
+"<pinolongan>"
+	"*pinolongan"
+"<.>"
+	"." sent
+
+"<Ngan>"
+	"ngan" det pl
+"<nahanabu>"
+	"*nahanabu"
+"<,>"
+	"," cm
+"<nga>"
+	"nga" det link
+"<han>"
+	"han" det def pos
+"<ira>"
+	"hira" prn pers p3 pl obl
+"<paglinakat>"
+	"*paglinakat"
+"<tipasinirangan>"
+	"*tipasinirangan"
+"<,>"
+	"," cm
+"<nakaagi>"
+	"*nakaagi"
+"<hira>"
+	"hira" prn pers p3 p1 nom
+	"ra" det pl
+		"hi" det pos
+"<hin>"
+	"hin" det ind pos
+"<usa>"
+	"usa"
+"<nga>"
+	"nga" det link
+"<kapatagan>"
+	"*kapatagan"
+"<ha>"
+	"ha" det obl
+"<tuna>"
+	"tuna" n
+"<ha>"
+	"ha" det obl
+"<Sinar>"
+	"*Sinar"
+"<;>"
+	";" sent
+"<ngan>"
+	"ngan" det pl
+"<hira>"
+	"hira" prn pers p3 p1 nom
+	"ra" det pl
+		"hi" det pos
+"<nagukoy>"
+	"*nagukoy"
+"<didto>"
+	"didto" adv
+	"didto" prn det dem
+"<.>"
+	"." sent
+
+"<Ngan>"
+	"ngan" det pl
+"<hira>"
+	"hira" prn pers p3 p1 nom
+	"ra" det pl
+		"hi" det pos
+"<nagsiring>"
+	"*nagsiring"
+"<ha>"
+	"ha" det obl
+"<usa>"
+	"usa"
+"<kag>"
+	"kag" cnj
+"<usa>"
+	"usa"
+"<:>"
+	":" sent
+"<Kadi>"
+	"*Kadi"
+"<,>"
+	"," cm
+"<paghimo>"
+	"*paghimo"
+"<kita>"
+	"kita" prn pers p1 incl p1 nom
+"<hin>"
+	"hin" det ind pos
+"<baldosa>"
+	"*baldosa"
+"<,>"
+	"," cm
+"<ngan>"
+	"ngan" det pl
+"<lutoa>"
+	"*lutoa"
+"<ta>"
+	"*ta"
+"<ito>"
+	"iton" prn det dem
+"<hin>"
+	"hin" det ind pos
+"<maopay>"
+	"*maopay"
+"<.>"
+	"." sent
+"<Ngan>"
+	"ngan" det pl
+"<hira>"
+	"hira" prn pers p3 p1 nom
+	"ra" det pl
+		"hi" det pos
+"<nagkaada>"
+	"*nagkaada"
+"<baldosa>"
+	"*baldosa"
+"<nga>"
+	"nga" det link
+"<bato>"
+	"*bato"
+"<,>"
+	"," cm
+"<ngan>"
+	"ngan" det pl
+"<nagkaada>"
+	"*nagkaada"
+"<hira>"
+	"hira" prn pers p3 p1 nom
+	"ra" det pl
+		"hi" det pos
+"<lapok>"
+	"*lapok"
+"<nga>"
+	"nga" det link
+"<pangnguta>"
+	"*pangnguta"
+"<.>"
+	"." sent
+
+"<Ngan>"
+	"ngan" det pl
+"<hira>"
+	"hira" prn pers p3 p1 nom
+	"ra" det pl
+		"hi" det pos
+"<siniring>"
+	"*siniring"
+"<:>"
+	":" sent
+"<Kadi>"
+	"*Kadi"
+"<,>"
+	"," cm
+"<pagtukud>"
+	"*pagtukud"
+"<kita>"
+	"kita" prn pers p1 incl p1 nom
+"<hin>"
+	"hin" det ind pos
+"<bungto>"
+	"*bungto"
+"<,>"
+	"," cm
+"<ngan>"
+	"ngan" det pl
+"<hin>"
+	"hin" det ind pos
+"<baluarte>"
+	"*baluarte"
+"<,>"
+	"," cm
+"<nga>"
+	"nga" det link
+"<aniya>"
+	"*aniya"
+"<ugbusan>"
+	"*ugbusan"
+"<maabut>"
+	"*maabut"
+"<ha>"
+	"ha" det obl
+"<langit>"
+	"langit" n
+"<,>"
+	"," cm
+"<ngan>"
+	"ngan" det pl
+"<paghimo>"
+	"*paghimo"
+"<kita>"
+	"kita" prn pers p1 incl p1 nom
+"<hin>"
+	"hin" det ind pos
+"<ngaran>"
+	"*ngaran"
+"<,>"
+	"," cm
+"<basi>"
+	"*basi"
+"<diri>"
+	"diri" adv
+"<kita>"
+	"kita" prn pers p1 incl p1 nom
+"<pagsarangon>"
+	"*pagsarangon"
+"<ha>"
+	"ha" det obl
+"<kahigrayo>"
+	"*kahigrayo"
+"<->"
+	"-" guio
+"<an>"
+	"an" det nom
+"<ha>"
+	"ha" det obl
+"<bawbaw>"
+	"*bawbaw"
+"<han>"
+	"han" det def pos
+"<bug>"
+	"*bug"
+"<->"
+	"-" guio
+"<os>"
+	"*os"
+"<nga>"
+	"nga" det link
+"<tuna>"
+	"tuna" n
+"<.>"
+	"." sent
+
+"<Ngan>"
+	"ngan" det pl
+"<hi>"
+	"hi" det pos
+"<Jehova>"
+	"*Jehova"
+"<linusad>"
+	"*linusad"
+"<ha>"
+	"ha" det obl
+"<pagtan>"
+	"*pagtan"
+"<->"
+	"-" guio
+"<aw>"
+	"*aw"
+"<han>"
+	"han" det def pos
+"<bungto>"
+	"*bungto"
+"<ngan>"
+	"ngan" det pl
+"<han>"
+	"han" det def pos
+"<torre>"
+	"*torre"
+"<,>"
+	"," cm
+"<nga>"
+	"nga" det link
+"<kanan>"
+	"*kanan"
+"<mga>"
+	"mga" det pl
+"<anak>"
+	"*anak"
+"<han>"
+	"han" det def pos
+"<mga>"
+	"mga" det pl
+"<tawo>"
+	"tawo" n
+"<gintukud>"
+	"*gintukud"
+"<.>"
+	"." sent
+
+"<Ngan>"
+	"ngan" det pl
+"<hi>"
+	"hi" det pos
+"<Jehova>"
+	"*Jehova"
+"<siniring>"
+	"*siniring"
+"<:>"
+	":" sent
+"<Iini>"
+	"*Iini"
+"<,>"
+	"," cm
+"<hira>"
+	"hira" prn pers p3 p1 nom
+	"ra" det pl
+		"hi" det pos
+"<urusa>"
+	"*urusa"
+"<nga>"
+	"nga" det link
+"<katawohan>"
+	"*katawohan"
+"<,>"
+	"," cm
+"<ngan>"
+	"ngan" det pl
+"<hira>"
+	"hira" prn pers p3 p1 nom
+	"ra" det pl
+		"hi" det pos
+"<ngatanan>"
+	"*ngatanan"
+"<may>"
+	"*may"
+"<uusa>"
+	"*uusa"
+"<la>"
+	"*la"
+"<an>"
+	"an" det nom
+"<yinaknan>"
+	"*yinaknan"
+"<:>"
+	":" sent
+"<ngan>"
+	"ngan" det pl
+"<amo>"
+	"*amo"
+"<ini>"
+	"ini" prn det dem
+"<an>"
+	"an" det nom
+"<gintikangan>"
+	"*gintikangan"
+"<pagbuhat>"
+	"*pagbuhat"
+"<nira>"
+	"hira" prn pers p3 pl pos
+	"ra" det pl
+		"ni" det pos
+"<;>"
+	";" sent
+"<ngan>"
+	"ngan" det pl
+"<yana>"
+	"*yana"
+"<waray>"
+	"waray" adv
+"<makakapugong>"
+	"*makakapugong"
+"<ha>"
+	"ha" det obl
+"<ira>"
+	"hira" prn pers p3 pl obl
+"<,>"
+	"," cm
+"<sugad>"
+	"*sugad"
+"<han>"
+	"han" det def pos
+"<ira>"
+	"hira" prn pers p3 pl obl
+"<tuyo>"
+	"*tuyo"
+"<pagbuhaton>"
+	"*pagbuhaton"
+"<.>"
+	"." sent
+
+"<Kadi>"
+	"*Kadi"
+"<,>"
+	"," cm
+"<panlusad>"
+	"*panlusad"
+"<kita>"
+	"kita" prn pers p1 incl p1 nom
+"<,>"
+	"," cm
+"<ngan>"
+	"ngan" det pl
+"<didto>"
+	"didto" adv
+	"didto" prn det dem
+"<lipongan>"
+	"*lipongan"
+"<naton>"
+	"kita" prn pers p1 incl pl pos
+"<an>"
+	"an" det nom
+"<ira>"
+	"hira" prn pers p3 pl obl
+"<yinaknan>"
+	"*yinaknan"
+"<,>"
+	"," cm
+"<nga>"
+	"nga" det link
+"<basi>"
+	"*basi"
+"<hira>"
+	"hira" prn pers p3 p1 nom
+	"ra" det pl
+		"hi" det pos
+"<diri>"
+	"diri" adv
+"<sumabut>"
+	"*sumabut"
+"<an>"
+	"an" det nom
+"<usa>"
+	"usa"
+"<han>"
+	"han" det def pos
+"<kanan>"
+	"*kanan"
+"<iba>"
+	"*iba"
+"<pinolongan>"
+	"*pinolongan"
+"<.>"
+	"." sent
+
+"<Sanglit>"
+	"*Sanglit"
+"<ginpasarang>"
+	"*ginpasarang"
+"<hira>"
+	"hira" prn pers p3 p1 nom
+	"ra" det pl
+		"hi" det pos
+"<ni>"
+	"ni" det pos
+"<Jehova>"
+	"*Jehova"
+"<ha>"
+	"ha" det obl
+"<kahigrayo>"
+	"*kahigrayo"
+"<->"
+	"-" guio
+"<an>"
+	"an" det nom
+"<tikang>"
+	"*tikang"
+"<hadto>"
+	"hadto" prn det dem
+"<ha>"
+	"ha" det obl
+"<bawbaw>"
+	"*bawbaw"
+"<han>"
+	"han" det def pos
+"<tuna>"
+	"tuna" n
+"<;>"
+	";" sent
+"<ngan>"
+	"ngan" det pl
+"<ira>"
+	"hira" prn pers p3 pl obl
+"<binayaan>"
+	"*binayaan"
+"<an>"
+	"an" det nom
+"<pagtukud>"
+	"*pagtukud"
+"<han>"
+	"han" det def pos
+"<bungto>"
+	"*bungto"
+"<.>"
+	"." sent
+
+"<Busa>"
+	"*Busa"
+"<an>"
+	"an" det nom
+"<ngaran>"
+	"*ngaran"
+"<hito>"
+	"*hito"
+"<gintawag>"
+	"*gintawag"
+"<Babel>"
+	"*Babel"
+"<;>"
+	";" sent
+"<kay>"
+	"*kay"
+"<ginlipong>"
+	"*ginlipong"
+"<didto>"
+	"didto" adv
+	"didto" prn det dem
+"<ni>"
+	"ni" det pos
+"<Jehova>"
+	"*Jehova"
+"<an>"
+	"an" det nom
+"<yinaknan>"
+	"*yinaknan"
+"<han>"
+	"han" det def pos
+"<ngatanan>"
+	"*ngatanan"
+"<nga>"
+	"nga" det link
+"<tuna>"
+	"tuna" n
+"<:>"
+	":" sent
+"<ngan>"
+	"ngan" det pl
+"<tikang>"
+	"*tikang"
+"<didto>"
+	"didto" adv
+	"didto" prn det dem
+"<ginpasarang>"
+	"*ginpasarang"
+"<hira>"
+	"hira" prn pers p3 p1 nom
+	"ra" det pl
+		"hi" det pos
+"<ni>"
+	"ni" det pos
+"<Jehova>"
+	"*Jehova"
+"<ha>"
+	"ha" det obl
+"<Kahigrayo>"
+	"*Kahigrayo"
+"<->"
+	"-" guio
+"<an>"
+	"an" det nom
+"<ha>"
+	"ha" det obl
+"<bawbaw>"
+	"*bawbaw"
+"<han>"
+	"han" det def pos
+"<tuna>"
+	"tuna" n
+"<.>"
+	"." sent
+
+"<Ha>"
+	"ha" det obl
+"<tinikangan>"
+	"*tinikangan"
+"<ginlarang>"
+	"*ginlarang"
+"<han>"
+	"han" det def pos
+"<Dios>"
+	"Dios" np ant
+"<an>"
+	"an" det nom
+"<langit>"
+	"langit" n
+"<ngan>"
+	"ngan" det pl
+"<an>"
+	"an" det nom
+"<tuna>"
+	"tuna" n
+"<.>"
+	"." sent
+
+"<An>"
+	"an" det nom
+"<tuna>"
+	"tuna" n
+"<waray>"
+	"waray" adv
+"<sulod>"
+	"*sulod"
+"<ngan>"
+	"ngan" det pl
+"<waray>"
+	"waray" adv
+"<umurukoy>"
+	"*umurukoy"
+"<,>"
+	"," cm
+"<ngan>"
+	"ngan" det pl
+"<masirom>"
+	"*masirom"
+"<ha>"
+	"ha" det obl
+"<bawbaw>"
+	"*bawbaw"
+"<han>"
+	"han" det def pos
+"<hilarom>"
+	"*hilarom"
+"<nga>"
+	"nga" det link
+"<katubigan>"
+	"*katubigan"
+"<,>"
+	"," cm
+"<ngan>"
+	"ngan" det pl
+"<an>"
+	"an" det nom
+"<aktibo>"
+	"*aktibo"
+"<nga>"
+	"nga" det link
+"<pwersa>"
+	"*pwersa"
+"<han>"
+	"han" det def pos
+"<Dios>"
+	"Dios" np ant
+"<nagios>"
+	"*nagios"
+"<ha>"
+	"ha" det obl
+"<bawbaw>"
+	"*bawbaw"
+"<han>"
+	"han" det def pos
+"<katubigan>"
+	"*katubigan"
+"<.>"
+	"." sent
+
+"<Ngan>"
+	"ngan" det pl
+"<an>"
+	"an" det nom
+"<Dios>"
+	"Dios" np ant
+"<nagsiring>"
+	"*nagsiring"
+"<:>"
+	":" sent
+"<“>"
+	"“" lquot
+"<Magkaada>"
+	"*Magkaada"
+"<kalamrag>"
+	"*kalamrag"
+"<,>"
+	"," cm
+"<”>"
+	"”" rquot
+"<ngan>"
+	"ngan" det pl
+"<nagkaada>"
+	"*nagkaada"
+"<kalamrag>"
+	"*kalamrag"
+"<.>"
+	"." sent
+
+"<Kahuman>"
+	"*Kahuman"
+"<hito>"
+	"*hito"
+"<,>"
+	"," cm
+"<nakita>"
+	"*nakita"
+"<han>"
+	"han" det def pos
+"<Dios>"
+	"Dios" np ant
+"<nga>"
+	"nga" det link
+"<maopay>"
+	"*maopay"
+"<an>"
+	"an" det nom
+"<kalamrag>"
+	"*kalamrag"
+"<,>"
+	"," cm
+"<ngan>"
+	"ngan" det pl
+"<iginbulag>"
+	"*iginbulag"
+"<han>"
+	"han" det def pos
+"<Dios>"
+	"Dios" np ant
+"<an>"
+	"an" det nom
+"<kalamrag>"
+	"*kalamrag"
+"<ha>"
+	"ha" det obl
+"<kasisidman>"
+	"*kasisidman"
+"<.>"
+	"." sent
+
+"<Gintawag>"
+	"*Gintawag"
+"<han>"
+	"han" det def pos
+"<Dios>"
+	"Dios" np ant
+"<an>"
+	"an" det nom
+"<kalamrag>"
+	"*kalamrag"
+"<nga>"
+	"nga" det link
+"<Adlaw>"
+	"adlaw" n
+"<,>"
+	"," cm
+
+"<pero>"
+	"*pero"
+"<an>"
+	"an" det nom
+"<kasisidman>"
+	"*kasisidman"
+"<iya>"
+	"hiya" prn pers p3 sg obl
+"<gintawag>"
+	"*gintawag"
+"<nga>"
+	"nga" det link
+"<Gab-i>"
+	"gabi" n
+"<.>"
+	"." sent
+ 
+"<Ngan>"
+	"ngan" det pl
+"<nagkaada>"
+	"*nagkaada"
+"<gab-i>"
+	"gabi" n
+"<ngan>"
+	"ngan" det pl
+"<nagkaada>"
+	"*nagkaada"
+"<aga>"
+	"aga" n
+"<,>"
+	"," cm
+"<an>"
+	"an" det nom
+"<siyahan>"
+	"*siyahan"
+"<nga>"
+	"nga" det link
+"<adlaw>"
+	"adlaw" n
+"<.>"
+	"." sent
+
+"<Magkaada>"
+	"*Magkaada"
+"<haluag>"
+	"*haluag"
+"<nga>"
+	"nga" det link
+"<espasyo>"
+	"*espasyo"
+"<butnga>"
+	"*butnga"
+"<han>"
+	"han" det def pos
+"<katubigan>"
+	"*katubigan"
+"<,>"
+	"," cm
+"<ngan>"
+	"ngan" det pl
+"<mabahin>"
+	"*mabahin"
+"<an>"
+	"an" det nom
+"<katubigan>"
+	"*katubigan"
+"<.>"
+	"." sent
+
+"<Gintawag>"
+	"*Gintawag"
+"<han>"
+	"han" det def pos
+"<Dios>"
+	"Dios" np ant
+"<an>"
+	"an" det nom
+"<haluag>"
+	"*haluag"
+"<nga>"
+	"nga" det link
+"<espasyo>"
+	"*espasyo"
+"<nga>"
+	"nga" det link
+"<Langit>"
+	"langit" n
+"<.>"
+	"." sent
+ 
+"<Ngan>"
+	"ngan" det pl
+"<nagkaada>"
+	"*nagkaada"
+"<gab-i>"
+	"gabi" n
+"<ngan>"
+	"ngan" det pl
+"<nagkaada>"
+	"*nagkaada"
+"<aga>"
+	"aga" n
+"<,>"
+	"," cm
+"<an>"
+	"an" det nom
+"<ikaduha>"
+	"*ikaduha"
+"<ka>"
+	"ka" adv
+	"ka" cnj
+	"ikaw" prn pers p2 sg nom
+"<adlaw>"
+	"adlaw" n
+"<.>"
+	"." sent
+
+"<Matirok>"
+	"*Matirok"
+"<an>"
+	"an" det nom
+"<katubigan>"
+	"*katubigan"
+"<ha>"
+	"ha" det obl
+"<ilarom>"
+	"*ilarom"
+"<han>"
+	"han" det def pos
+"<langit>"
+	"langit" n
+"<ha>"
+	"ha" det obl
+"<usa>"
+	"usa"
+"<nga>"
+	"nga" det link
+"<lokasyon>"
+	"*lokasyon"
+"<ngan>"
+	"ngan" det pl
+"<makita>"
+	"*makita"
+"<an>"
+	"an" det nom
+"<mamara>"
+	"*mamara"
+"<nga>"
+	"nga" det link
+"<tuna>"
+	"tuna" n
+"<.>"
+	"." sent
+
+"<Gintawag>"
+	"*Gintawag"
+"<han>"
+	"han" det def pos
+"<Dios>"
+	"Dios" np ant
+"<nga>"
+	"nga" det link
+"<Tuna>"
+	"tuna" n
+"<an>"
+	"an" det nom
+"<mamara>"
+	"*mamara"
+"<nga>"
+	"nga" det link
+"<tuna>"
+	"tuna" n
+"<,>"
+	"," cm
+"<pero>"
+	"*pero"
+"<an>"
+	"an" det nom
+"<natirok>"
+	"*natirok"
+"<nga>"
+	"nga" det link
+"<katubigan>"
+	"*katubigan"
+"<,>"
+	"," cm
+"<iya>"
+	"hiya" prn pers p3 sg obl
+"<gintawag>"
+	"*gintawag"
+"<nga>"
+	"nga" det link
+"<Kadagatan>"
+	"*Kadagatan"
+"<.>"
+	"." sent
+
+"<Manurok>"
+	"*Manurok"
+"<ha>"
+	"ha" det obl
+"<tuna>"
+	"tuna" n
+"<an>"
+	"an" det nom
+"<kabanwaan>"
+	"*kabanwaan"
+"<,>"
+	"," cm
+"<mga>"
+	"mga" det pl
+"<tanom>"
+	"*tanom"
+"<nga>"
+	"nga" det link
+"<may>"
+	"*may"
+"<liso>"
+	"*liso"
+"<ngan>"
+	"ngan" det pl
+"<mga>"
+	"mga" det pl
+"<kahoy>"
+	"kahoy" n
+	"káhoy" n
+"<nga>"
+	"nga" det link
+"<namumunga>"
+	"*namumunga"
+"<uyon>"
+	"*uyon"
+"<ha>"
+	"ha" det obl
+"<mga>"
+	"mga" det pl
+"<klase>"
+	"kláse" n
+"<hito>"
+	"*hito"
+"<,>"
+	"," cm
+"<nga>"
+	"nga" det link
+"<naghahatag>"
+	"hatag" v tv pres
+"<hin>"
+	"hin" det ind pos
+"<bunga>"
+	"*bunga"
+"<nga>"
+	"nga" det link
+"<may>"
+	"*may"
+"<liso>"
+	"*liso"
+"<dida>"
+	"dida" adv
+	"dida" prn det dem
+"<ha>"
+	"ha" det obl
+"<tuna>"
+	"tuna" n
+"<.>"
+	"." sent
+ 
+"<Ngan>"
+	"ngan" det pl
+"<nagtikang>"
+	"*nagtikang"
+"<manurok>"
+	"*manurok"
+"<ha>"
+	"ha" det obl
+"<tuna>"
+	"tuna" n
+"<an>"
+	"an" det nom
+"<kabanwaan>"
+	"*kabanwaan"
+"<,>"
+	"," cm
+"<mga>"
+	"mga" det pl
+"<tanom>"
+	"*tanom"
+"<nga>"
+	"nga" det link
+"<may>"
+	"*may"
+"<liso>"
+	"*liso"
++ 
+"<ngan>"
+	"ngan" det pl
+"<mga>"
+	"mga" det pl
+"<kahoy>"
+	"kahoy" n
+	"káhoy" n
+"<nga>"
+	"nga" det link
+"<namumunga>"
+	"*namumunga"
+"<nga>"
+	"nga" det link
+"<may>"
+	"*may"
+"<liso>"
+	"*liso"
+"<,>"
+	"," cm
+"<uyon>"
+	"*uyon"
+"<ha>"
+	"ha" det obl
+"<mga>"
+	"mga" det pl
+"<klase>"
+	"kláse" n
+"<hito>"
+	"*hito"
+"<.>"
+	"." sent
+  
+"<Ngan>"
+	"ngan" det pl
+"<nagkaada>"
+	"*nagkaada"
+"<gab-i>"
+	"gabi" n
+"<ngan>"
+	"ngan" det pl
+"<nagkaada>"
+	"*nagkaada"
+"<aga>"
+	"aga" n
+"<,>"
+	"," cm
+"<an>"
+	"an" det nom
+"<ikatulo>"
+	"*ikatulo"
+"<ka>"
+	"ka" adv
+	"ka" cnj
+	"ikaw" prn pers p2 sg nom
+"<adlaw>"
+	"adlaw" n
+"<.>"
+	"." sent
+
+"<Magkaada>"
+	"*Magkaada"
+"<mga>"
+	"mga" det pl
+"<kapawa>"
+	"*kapawa"
+"<ha>"
+	"ha" det obl
+"<haluag>"
+	"*haluag"
+"<nga>"
+	"nga" det link
+"<espasyo>"
+	"*espasyo"
+"<han>"
+	"han" det def pos
+"<langit>"
+	"langit" n
+"<basi>"
+	"*basi"
+"<magbulag>"
+	"*magbulag"
+"<an>"
+	"an" det nom
+"<adlaw>"
+	"adlaw" n
+"<ngan>"
+	"ngan" det pl
+"<an>"
+	"an" det nom
+"<gab-i>"
+	"gabi" n
+"<,>"
+	"," cm
+"<ngan>"
+	"ngan" det pl
+"<magigin>"
+	"*magigin"
+"<mga>"
+	"mga" det pl
+"<tigaman>"
+	"*tigaman"
+"<ito>"
+	"iton" prn det dem
+"<han>"
+	"han" det def pos
+"<mga>"
+	"mga" det pl
+"<panahon>"
+	"*panahon"
+"<ngan>"
+	"ngan" det pl
+"<han>"
+	"han" det def pos
+"<mga>"
+	"mga" det pl
+"<adlaw>"
+	"adlaw" n
+"<ngan>"
+	"ngan" det pl
+"<mga>"
+	"mga" det pl
+"<tuig>"
+	"*tuig"
+"<.>"
+	"." sent
+
+"<Ito>"
+	"iton" prn det dem
+"<an>"
+	"an" det nom
+"<magigin>"
+	"*magigin"
+"<mga>"
+	"mga" det pl
+"<kapawa>"
+	"*kapawa"
+"<ha>"
+	"ha" det obl
+"<haluag>"
+	"*haluag"
+"<nga>"
+	"nga" det link
+"<espasyo>"
+	"*espasyo"
+"<han>"
+	"han" det def pos
+"<langit>"
+	"langit" n
+"<nga>"
+	"nga" det link
+"<maglalamrag>"
+	"*maglalamrag"
+"<han>"
+	"han" det def pos
+"<tuna>"
+	"tuna" n
+"<.>"
+	"." sent
+ 
+"<Sunod>"
+	"*Sunod"
+"<,>"
+	"," cm
+"<ginhimo>"
+	"*ginhimo"
+"<hanio>"
+	"*hanio"
+"<Ds>"
+	"*Ds"
+"<an>"
+	"an" det nom
+"<duha>"
+	"duha"
+"<nga>"
+	"nga" det link
+"<dagku>"
+	"*dagku"
+"<nga>"
+	"nga" det link
+"<kapawa>"
+	"*kapawa"
+"<,>"
+	"," cm
+"<an>"
+	"an" det nom
+"<durodaku>"
+	"*durodaku"
+"<nga>"
+	"nga" det link
+"<kapawa>"
+	"*kapawa"
+"<para>"
+	"para" det nom
+"<maglamrag>"
+	"*maglamrag"
+"<ha>"
+	"ha" det obl
+"<adlaw>"
+	"adlaw" n
+"<ngan>"
+	"ngan" det pl
+"<an>"
+	"an" det nom
+"<guroguti>"
+	"*guroguti"
+"<nga>"
+	"nga" det link
+"<kapawa>"
+	"*kapawa"
+"<para>"
+	"para" det nom
+"<maglamrag>"
+	"*maglamrag"
+"<ha>"
+	"ha" det obl
+"<gab-i>"
+	"gabi" n
+"<.>"
+	"." sent
+
+"<Ngan>"
+	"ngan" det pl
+"<ginhimo>"
+	"*ginhimo"
+"<liwat>"
+	"liwat" adv
+"<niya>"
+	"hiya" prn pers p3 sg pos
+"<an>"
+	"an" det nom
+"<mga>"
+	"mga" det pl
+"<bitoon>"
+	"*bitoon"
+"<.>"
+	"." sent
+
+"<Salit>"
+	"*Salit"
+"<iginbutang>"
+	"*iginbutang"
+"<ito>"
+	"iton" prn det dem
+"<han>"
+	"han" det def pos
+"<Dios>"
+	"Dios" np ant
+"<ha>"
+	"ha" det obl
+"<haluag>"
+	"*haluag"
+"<nga>"
+	"nga" det link
+"<espasyo>"
+	"*espasyo"
+"<han>"
+	"han" det def pos
+"<langit>"
+	"langit" n
+"<basi>"
+	"*basi"
+"<maghatag>"
+	"hatag" v tv futd
+"<hin>"
+	"hin" det ind pos
+"<kalamrag>"
+	"*kalamrag"
+"<ha>"
+	"ha" det obl
+"<tuna>"
+	"tuna" n
+"<,>"
+	"," cm
+"<ngan>"
+	"ngan" det pl
+"<basi>"
+	"*basi"
+"<maglamrag>"
+	"*maglamrag"
+"<ha>"
+	"ha" det obl
+"<adlaw>"
+	"adlaw" n
+"<ngan>"
+	"ngan" det pl
+"<ha>"
+	"ha" det obl
+"<gab-i>"
+	"gabi" n
+"<ngan>"
+	"ngan" det pl
+"<basi>"
+	"*basi"
+"<magbulag>"
+	"*magbulag"
+"<an>"
+	"an" det nom
+"<kalamrag>"
+	"*kalamrag"
+"<ngan>"
+	"ngan" det pl
+"<an>"
+	"an" det nom
+"<kasisidman>"
+	"*kasisidman"
+"<.>"
+	"." sent
+ 
+"<Ngan>"
+	"ngan" det pl
+"<nagkaada>"
+	"*nagkaada"
+"<gab-i>"
+	"gabi" n
+"<ngan>"
+	"ngan" det pl
+"<nagkaada>"
+	"*nagkaada"
+"<aga>"
+	"aga" n
+"<,>"
+	"," cm
+"<an>"
+	"an" det nom
+"<ikaupat>"
+	"*ikaupat"
+"<ka>"
+	"ka" adv
+	"ka" cnj
+	"ikaw" prn pers p2 sg nom
+"<adlaw>"
+	"adlaw" n
+"<.>"
+	"." sent
+
+"<Mapuno>"
+	"*Mapuno"
+"<an>"
+	"an" det nom
+"<katubigan>"
+	"*katubigan"
+"<hin>"
+	"hin" det ind pos
+"<buhi>"
+	"*buhi"
+"<nga>"
+	"nga" det link
+"<mga>"
+	"mga" det pl
+"<linarang>"
+	"*linarang"
+"<,>"
+	"," cm
+"<ngan>"
+	"ngan" det pl
+"<an>"
+	"an" det nom
+"<nalupad>"
+	"*nalupad"
+"<nga>"
+	"nga" det link
+"<mga>"
+	"mga" det pl
+"<linarang>"
+	"*linarang"
+"<magkalupad>"
+	"*magkalupad"
+"<ha>"
+	"ha" det obl
+"<bawbaw>"
+	"*bawbaw"
+"<han>"
+	"han" det def pos
+"<tuna>"
+	"tuna" n
+"<nga>"
+	"nga" det link
+"<nalatas>"
+	"*nalatas"
+"<ha>"
+	"ha" det obl
+"<haluag>"
+	"*haluag"
+"<nga>"
+	"nga" det link
+"<espasyo>"
+	"*espasyo"
+"<han>"
+	"han" det def pos
+"<langit>"
+	"langit" n
+"<.>"
+	"." sent
+
+"<Ngan>"
+	"ngan" det pl
+"<ginlarang>"
+	"*ginlarang"
+"<han>"
+	"han" det def pos
+"<Dios>"
+	"Dios" np ant
+"<an>"
+	"an" det nom
+"<dagku>"
+	"*dagku"
+"<nga>"
+	"nga" det link
+"<mga>"
+	"mga" det pl
+"<linarang>"
+	"*linarang"
+"<ha>"
+	"ha" det obl
+"<dagat>"
+	"dágat" adj
+"<ngan>"
+	"ngan" det pl
+"<an>"
+	"an" det nom
+"<ngatanan>"
+	"*ngatanan"
+"<nga>"
+	"nga" det link
+"<buhi>"
+	"*buhi"
+"<nga>"
+	"nga" det link
+"<linarang>"
+	"*linarang"
+"<nga>"
+	"nga" det link
+"<nagkikiwa>"
+	"*nagkikiwa"
+"<ngan>"
+	"ngan" det pl
+"<nagbuburunyog>"
+	"*nagbuburunyog"
+"<dida>"
+	"dida" adv
+	"dida" prn det dem
+"<ha>"
+	"ha" det obl
+"<katubigan>"
+	"*katubigan"
+"<uyon>"
+	"*uyon"
+"<ha>"
+	"ha" det obl
+"<mga>"
+	"mga" det pl
+"<klase>"
+	"kláse" n
+"<hito>"
+	"*hito"
+"<,>"
+	"," cm
+"<ngan>"
+	"ngan" det pl
+"<an>"
+	"an" det nom
+"<tagsa>"
+	"*tagsa"
+"<nga>"
+	"nga" det link
+"<may>"
+	"*may"
+"<pako>"
+	"*pako"
+"<nga>"
+	"nga" det link
+"<linarang>"
+	"*linarang"
+"<nga>"
+	"nga" det link
+"<nalupad>"
+	"*nalupad"
+"<uyon>"
+	"*uyon"
+"<ha>"
+	"ha" det obl
+"<mga>"
+	"mga" det pl
+"<klase>"
+	"kláse" n
+"<hito>"
+	"*hito"
+"<.>"
+	"." sent
+ 
+"<Manganak>"
+	"*Manganak"
+"<ngan>"
+	"ngan" det pl
+"<magdamu>"
+	"*magdamu"
+"<kamo>"
+	"kamo" prn pers p2 pl nom
+"<ngan>"
+	"ngan" det pl
+"<pun>"
+	"*pun"
+"<->"
+	"-" guio
+"<on>"
+	"*on"
+"<niyo>"
+	"kamo" prn pers p2 pl pos
+"<an>"
+	"an" det nom
+"<dagat>"
+	"dágat" adj
+"<,>"
+	"," cm
+"<ngan>"
+	"ngan" det pl
+"<magdamu>"
+	"*magdamu"
+"<an>"
+	"an" det nom
+"<nalupad>"
+	"*nalupad"
+"<nga>"
+	"nga" det link
+"<mga>"
+	"mga" det pl
+"<linarang>"
+	"*linarang"
+"<ha>"
+	"ha" det obl
+"<tuna>"
+	"tuna" n
+"<.>"
+	"." sent
+
+"<Ngan>"
+	"ngan" det pl
+"<nagkaada>"
+	"*nagkaada"
+"<gab-i>"
+	"gabi" n
+"<ngan>"
+	"ngan" det pl
+"<nagkaada>"
+	"*nagkaada"
+"<aga>"
+	"aga" n
+"<,>"
+	"," cm
+"<an>"
+	"an" det nom
+"<ikalima>"
+	"*ikalima"
+"<ka>"
+	"ka" adv
+	"ka" cnj
+	"ikaw" prn pers p2 sg nom
+"<adlaw>"
+	"adlaw" n
+"<.>"
+	"." sent
+
+"<Magkaada>"
+	"*Magkaada"
+"<an>"
+	"an" det nom
+"<tuna>"
+	"tuna" n
+"<buhi>"
+	"*buhi"
+"<nga>"
+	"nga" det link
+"<mga>"
+	"mga" det pl
+"<linarang>"
+	"*linarang"
+"<uyon>"
+	"*uyon"
+"<ha>"
+	"ha" det obl
+"<mga>"
+	"mga" det pl
+"<klase>"
+	"kláse" n
+"<hito>"
+	"*hito"
+"<,>"
+	"," cm
+"<maanad>"
+	"*maanad"
+"<nga>"
+	"nga" det link
+"<mga>"
+	"mga" det pl
+"<hayop>"
+	"hayop" n
+"<ngan>"
+	"ngan" det pl
+"<nagkakamang>"
+	"*nagkakamang"
+"<nga>"
+	"nga" det link
+"<mga>"
+	"mga" det pl
+"<hayop>"
+	"hayop" n
+"<ngan>"
+	"ngan" det pl
+"<ihalas>"
+	"*ihalas"
+"<nga>"
+	"nga" det link
+"<mga>"
+	"mga" det pl
+"<hayop>"
+	"hayop" n
+"<ha>"
+	"ha" det obl
+"<tuna>"
+	"tuna" n
+"<uyon>"
+	"*uyon"
+"<ha>"
+	"ha" det obl
+"<mga>"
+	"mga" det pl
+"<klase>"
+	"kláse" n
+"<hito>"
+	"*hito"
+"<.>"
+	"." sent
+
+"<Sunod>"
+	"*Sunod"
+"<,>"
+	"," cm
+"<ginhimo>"
+	"*ginhimo"
+"<han>"
+	"han" det def pos
+"<Dios>"
+	"Dios" np ant
+"<an>"
+	"an" det nom
+"<ihalas>"
+	"*ihalas"
+"<nga>"
+	"nga" det link
+"<mga>"
+	"mga" det pl
+"<hayop>"
+	"hayop" n
+"<ha>"
+	"ha" det obl
+"<tuna>"
+	"tuna" n
+"<uyon>"
+	"*uyon"
+"<ha>"
+	"ha" det obl
+"<mga>"
+	"mga" det pl
+"<klase>"
+	"kláse" n
+"<hito>"
+	"*hito"
+"<ngan>"
+	"ngan" det pl
+"<an>"
+	"an" det nom
+"<maanad>"
+	"*maanad"
+"<nga>"
+	"nga" det link
+"<mga>"
+	"mga" det pl
+"<hayop>"
+	"hayop" n
+"<uyon>"
+	"*uyon"
+"<ha>"
+	"ha" det obl
+"<mga>"
+	"mga" det pl
+"<klase>"
+	"kláse" n
+"<hito>"
+	"*hito"
+"<ngan>"
+	"ngan" det pl
+"<an>"
+	"an" det nom
+"<ngatanan>"
+	"*ngatanan"
+"<nga>"
+	"nga" det link
+"<nagkakamang>"
+	"*nagkakamang"
+"<nga>"
+	"nga" det link
+"<hayop>"
+	"hayop" n
+"<ha>"
+	"ha" det obl
+"<tuna>"
+	"tuna" n
+"<uyon>"
+	"*uyon"
+"<ha>"
+	"ha" det obl
+"<mga>"
+	"mga" det pl
+"<klase>"
+	"kláse" n
+"<hito>"
+	"*hito"
+"<.>"
+	"." sent
+ 
+"<Ngan>"
+	"ngan" det pl
+"<nakita>"
+	"*nakita"
+"<han>"
+	"han" det def pos
+"<Dios>"
+	"Dios" np ant
+"<nga>"
+	"nga" det link
+"<maopay>"
+	"*maopay"
+"<ito>"
+	"iton" prn det dem
+"<.>"
+	"." sent
+
+"<Himoon>"
+	"*Himoon"
+"<naton>"
+	"kita" prn pers p1 incl pl pos
+
+"<an>"
+	"an" det nom
+"<tawo>"
+	"tawo" n
+"<uyon>"
+	"*uyon"
+"<ha>"
+	"ha" det obl
+"<aton>"
+	"kita" prn pers p1 incl pl obl
+"<dagway>"
+	"*dagway"
+"<,>"
+	"," cm
+"<nga>"
+	"nga" det link
+"<pariho>"
+	"*pariho"
+"<ha>"
+	"ha" det obl
+"<aton>"
+	"kita" prn pers p1 incl pl obl
+"<,>"
+	"," cm
+"<ngan>"
+	"ngan" det pl
+"<magkaada>"
+	"*magkaada"
+"<hira>"
+	"hira" prn pers p3 p1 nom
+	"ra" det pl
+		"hi" det pos
+"<awtoridad>"
+	"*awtoridad"
+"<ha>"
+	"ha" det obl
+"<mga>"
+	"mga" det pl
+"<isda>"
+	"*isda"
+"<ha>"
+	"ha" det obl
+"<dagat>"
+	"dágat" adj
+"<ngan>"
+	"ngan" det pl
+"<ha>"
+	"ha" det obl
+"<nalupad>"
+	"*nalupad"
+"<nga>"
+	"nga" det link
+"<mga>"
+	"mga" det pl
+"<linarang>"
+	"*linarang"
+"<ha>"
+	"ha" det obl
+"<langit>"
+	"langit" n
+"<ngan>"
+	"ngan" det pl
+"<ha>"
+	"ha" det obl
+"<maanad>"
+	"*maanad"
+"<nga>"
+	"nga" det link
+"<mga>"
+	"mga" det pl
+"<hayop>"
+	"hayop" n
+"<ngan>"
+	"ngan" det pl
+"<ha>"
+	"ha" det obl
+"<bug>"
+	"*bug"
+"<->"
+	"-" guio
+"<os>"
+	"*os"
+"<nga>"
+	"nga" det link
+"<tuna>"
+	"tuna" n
+"<ngan>"
+	"ngan" det pl
+"<ha>"
+	"ha" det obl
+"<tagsa>"
+	"*tagsa"
+"<nga>"
+	"nga" det link
+"<nagkakamang>"
+	"*nagkakamang"
+"<nga>"
+	"nga" det link
+"<hayop>"
+	"hayop" n
+"<nga>"
+	"nga" det link
+"<nagkikiwa>"
+	"*nagkikiwa"
+"<dida>"
+	"dida" adv
+	"dida" prn det dem
+"<ha>"
+	"ha" det obl
+"<tuna>"
+	"tuna" n
+"<.>"
+	"." sent
+
+"<Sunod>"
+	"*Sunod"
+"<ginlarang>"
+	"*ginlarang"
+"<han>"
+	"han" det def pos
+"<Dios>"
+	"Dios" np ant
+"<an>"
+	"an" det nom
+"<tawo>"
+	"tawo" n
+"<uyon>"
+	"*uyon"
+"<ha>"
+	"ha" det obl
+"<iya>"
+	"hiya" prn pers p3 sg obl
+"<dagway>"
+	"*dagway"
+"<,>"
+	"," cm
+"<ha>"
+	"ha" det obl
+"<dagway>"
+	"*dagway"
+"<han>"
+	"han" det def pos
+"<Dios>"
+	"Dios" np ant
+"<iya>"
+	"hiya" prn pers p3 sg obl
+"<ginlarang>"
+	"*ginlarang"
+"<hiya>"
+	"hiya" prn pers p3 sg nom
+"<;>"
+	";" sent
+"<ginlarang>"
+	"*ginlarang"
+"<niya>"
+	"hiya" prn pers p3 sg pos
+"<hira>"
+	"hira" prn pers p3 p1 nom
+	"ra" det pl
+		"hi" det pos
+"<nga>"
+	"nga" det link
+"<lalaki>"
+	"lalake" n
+"<ngan>"
+	"ngan" det pl
+"<babaye>"
+	"babaye" n
+"<.>"
+	"." sent
+
+"<Manganak>"
+	"*Manganak"
+"<ngan>"
+	"ngan" det pl
+"<magdamu>"
+	"*magdamu"
+"<kamo>"
+	"kamo" prn pers p2 pl nom
+"<,>"
+	"," cm
+"<pun>"
+	"*pun"
+"<->"
+	"-" guio
+"<on>"
+	"*on"
+"<niyo>"
+	"kamo" prn pers p2 pl pos
+"<an>"
+	"an" det nom
+"<tuna>"
+	"tuna" n
+"<ngan>"
+	"ngan" det pl
+"<kultibara>"
+	"*kultibara"
+"<ito>"
+	"iton" prn det dem
+"<,>"
+	"," cm
+"<ngan>"
+	"ngan" det pl
+"<magkaada>"
+	"*magkaada"
+"<kamo>"
+	"kamo" prn pers p2 pl nom
+"<awtoridad>"
+	"*awtoridad"
+ 
+"<ha>"
+	"ha" det obl
+"<mga>"
+	"mga" det pl
+"<isda>"
+	"*isda"
+"<ha>"
+	"ha" det obl
+"<dagat>"
+	"dágat" adj
+"<ngan>"
+	"ngan" det pl
+"<ha>"
+	"ha" det obl
+"<nalupad>"
+	"*nalupad"
+"<nga>"
+	"nga" det link
+"<mga>"
+	"mga" det pl
+"<linarang>"
+	"*linarang"
+"<ha>"
+	"ha" det obl
+"<langit>"
+	"langit" n
+"<ngan>"
+	"ngan" det pl
+"<ha>"
+	"ha" det obl
+"<tagsa>"
+	"*tagsa"
+"<nga>"
+	"nga" det link
+"<buhi>"
+	"*buhi"
+"<nga>"
+	"nga" det link
+"<linarang>"
+	"*linarang"
+"<nga>"
+	"nga" det link
+"<nagkikiwa>"
+	"*nagkikiwa"
+"<ha>"
+	"ha" det obl
+"<tuna>"
+	"tuna" n
+"<.>"
+	"." sent
+
+"<Iini>"
+	"*Iini"
+"<iginhahatag>"
+	"*iginhahatag"
+"<ko>"
+	"ako" prn pers p1 sg pos
+"<ha>"
+	"ha" det obl
+"<iyo>"
+	"kamo" prn pers p2 pl obl
+"<an>"
+	"an" det nom
+"<tagsa>"
+	"*tagsa"
+"<nga>"
+	"nga" det link
+"<tanom>"
+	"*tanom"
+"<nga>"
+	"nga" det link
+"<may>"
+	"*may"
+"<liso>"
+	"*liso"
+"<nga>"
+	"nga" det link
+"<aada>"
+	"*aada"
+"<ha>"
+	"ha" det obl
+"<bug>"
+	"*bug"
+"<->"
+	"-" guio
+"<os>"
+	"*os"
+"<nga>"
+	"nga" det link
+"<tuna>"
+	"tuna" n
+"<ngan>"
+	"ngan" det pl
+"<an>"
+	"an" det nom
+"<tagsa>"
+	"*tagsa"
+"<nga>"
+	"nga" det link
+"<kahoy>"
+	"kahoy" n
+	"káhoy" n
+"<nga>"
+	"nga" det link
+"<namumunga>"
+	"*namumunga"
+"<nga>"
+	"nga" det link
+"<may>"
+	"*may"
+"<liso>"
+	"*liso"
+"<.>"
+	"." sent
+ 
+"<Ito>"
+	"iton" prn det dem
+"<an>"
+	"an" det nom
+"<iyo>"
+	"kamo" prn pers p2 pl obl
+"<magigin>"
+	"*magigin"
+"<pagkaon>"
+	"kaon" v tv imp
+"<.>"
+	"." sent
+
+"<Ngan>"
+	"ngan" det pl
+"<ha>"
+	"ha" det obl
+"<tagsa>"
+	"*tagsa"
+"<nga>"
+	"nga" det link
+"<ihalas>"
+	"*ihalas"
+"<nga>"
+	"nga" det link
+"<hayop>"
+	"hayop" n
+"<ha>"
+	"ha" det obl
+"<tuna>"
+	"tuna" n
+"<ngan>"
+	"ngan" det pl
+"<ha>"
+	"ha" det obl
+"<tagsa>"
+	"*tagsa"
+"<nga>"
+	"nga" det link
+"<linarang>"
+	"*linarang"
+"<nga>"
+	"nga" det link
+"<nalupad>"
+	"*nalupad"
+"<ha>"
+	"ha" det obl
+"<langit>"
+	"langit" n
+"<ngan>"
+	"ngan" det pl
+"<ha>"
+	"ha" det obl
+"<ngatanan>"
+	"*ngatanan"
+"<nga>"
+	"nga" det link
+"<nagkikiwa>"
+	"*nagkikiwa"
+"<ha>"
+	"ha" det obl
+"<tuna>"
+	"tuna" n
+"<nga>"
+	"nga" det link
+"<may>"
+	"*may"
+"<kinabuhi>"
+	"*kinabuhi"
+"<,>"
+	"," cm
+"<iginhahatag>"
+	"*iginhahatag"
+"<ko>"
+	"ako" prn pers p1 sg pos
+"<an>"
+	"an" det nom
+"<ngatanan>"
+	"*ngatanan"
+"<nga>"
+	"nga" det link
+"<berde>"
+	"*berde"
+"<nga>"
+	"nga" det link
+"<tanom>"
+	"*tanom"
+"<basi>"
+	"*basi"
+"<magin>"
+	"*magin"
+"<pagkaon>"
+	"kaon" v tv imp
+"<.>"
+	"." sent
+"<”>"
+	"”" rquot
+ 
+"<Ngan>"
+	"ngan" det pl
+"<ito>"
+	"iton" prn det dem
+"<an>"
+	"an" det nom
+"<nahitabo>"
+	"*nahitabo"
+"<.>"
+	"." sent
+
+"<Katapos>"
+	"*Katapos"
+"<hito>"
+	"*hito"
+"<,>"
+	"," cm
+"<nakita>"
+	"*nakita"
+"<han>"
+	"han" det def pos
+"<Dios>"
+	"Dios" np ant
+"<an>"
+	"an" det nom
+"<ngatanan>"
+	"*ngatanan"
+"<nga>"
+	"nga" det link
+"<iya>"
+	"hiya" prn pers p3 sg obl
+"<ginhimo>"
+	"*ginhimo"
+"<,>"
+	"," cm
+"<ngan>"
+	"ngan" det pl
+"<kitaa>"
+	"*kitaa"
+"<!>"
+	"!" sent
+"<maopay>"
+	"*maopay"
+"<gud>"
+	"*gud"
+"<ito>"
+	"iton" prn det dem
+"<.>"
+	"." sent
+ 
+"<Ngan>"
+	"ngan" det pl
+"<nagkaada>"
+	"*nagkaada"
+"<gab-i>"
+	"gabi" n
+"<ngan>"
+	"ngan" det pl
+"<nagkaada>"
+	"*nagkaada"
+"<aga>"
+	"aga" n
+"<,>"
+	"," cm
+"<an>"
+	"an" det nom
+"<ikaunom>"
+	"*ikaunom"
+"<ka>"
+	"ka" adv
+	"ka" cnj
+	"ikaw" prn pers p2 sg nom
+"<adlaw>"
+	"adlaw" n
+"<.>"
+	"." sent
+
+"<Mabusag>"
+	"mabuság" adj
+"<hi>"
+	"hi" det pos
+"<Juan>"
+	"*Juan"
+"<.>"
+	"." sent
+
+"<Makuri>"
+	"makurî" adj
+"<an>"
+	"an" det nom
+"<leksyon>"
+	"*leksyon"
+"<.>"
+	"." sent
+
+"<Hiya>"
+	"hiya" prn pers p3 sg nom
+"<hi>"
+	"hi" det pos
+"<Judith>"
+	"*Judith"
+"<.>"
+	"." sent
+
+"<Maduroto>"
+	"maduróto" adj
+"<hira>"
+	"hira" prn pers p3 p1 nom
+	"ra" det pl
+		"hi" det pos
+"<Jess>"
+	"*Jess"
+"<ngan>"
+	"ngan" det pl
+"<Wendy>"
+	"*Wendy"
+"<.>"
+	"." sent
+
+"<Ako>"
+	"ako" prn pers p1 sg nom
+"<hi>"
+	"hi" det pos
+"<Dodong>"
+	"*Dodong"
+"<.>"
+	"." sent
+
+"<Mahusay>"
+	"*Mahusay"
+"<an>"
+	"an" det nom
+"<mga>"
+	"mga" det pl
+"<lingkuran>"
+	"lingkúran" n
+"<.>"
+	"." sent
+
+"<Puno>"
+	"*Puno"
+"<an>"
+	"an" det nom
+"<baso>"
+	"báso" n
+"<.>"
+	"." sent
+
+"<Maupay>"
+	"*Maupay"
+"<hi>"
+	"hi" det pos
+"<Kim>"
+	"*Kim"
+"<.>"
+	"." sent
+
+"<Hira>"
+	"hira" prn pers p3 p1 nom
+	"ra" det pl
+		"hi" det pos
+"<Emily>"
+	"*Emily"
+"<ngan>"
+	"ngan" det pl
+"<Arnold>"
+	"*Arnold"
+"<.>"
+	"." sent
+
+"<Daku>"
+	"daku" adj
+"<an>"
+	"an" det nom
+"<klase>"
+	"kláse" n
+"<.>"
+	"." sent
+
+"<Lamesa>"
+	"*Lamesa"
+"<ini>"
+	"ini" prn det dem
+"<.>"
+	"." sent
+
+"<Iton>"
+	"iton" prn det dem
+"<an>"
+	"an" det nom
+"<mga>"
+	"mga" det pl
+"<lapis>"
+	"lápis" n
+"<.>"
+	"." sent
+
+"<Mahusay>"
+	"*Mahusay"
+"<ini>"
+	"ini" prn det dem
+"<nga>"
+	"nga" det link
+"<kwarto>"
+	"kwárto" n
+"<.>"
+	"." sent
+
+"<Simbahan>"
+	"simbahan" n
+"<ito>"
+	"iton" prn det dem
+"<.>"
+	"." sent
+
+"<Hi>"
+	"hi" det pos
+"<Julianito>"
+	"*Julianito"
+"<iton>"
+	"iton" prn det dem
+"<.>"
+	"." sent
+
+"<Mata>"
+	"matá" n
+"<ini>"
+	"ini" prn det dem
+"<.>"
+	"." sent
+
+"<Ini>"
+	"ini" prn det dem
+"<an>"
+	"an" det nom
+"<mga>"
+	"mga" det pl
+"<lingkuran>"
+	"lingkúran" n
+"<.>"
+	"." sent
+
+"<Maraut>"
+	"*Maraut"
+"<ini>"
+	"ini" prn det dem
+"<nga>"
+	"nga" det link
+"<tawo>"
+	"tawo" n
+"<.>"
+	"." sent
+
+"<Mga>"
+	"mga" det pl
+"<utan>"
+	"utan" n
+"<iton>"
+	"iton" prn det dem
+"<.>"
+	"." sent
+
+"<Puno>"
+	"*Puno"
+"<adto>"
+	"adto" prn det dem
+"<nga>"
+	"nga" det link
+"<dyip>"
+	"*dyip"
+"<.>"
+	"." sent
+
+"<Mapalit>"
+	"palit" v tv fut
+"<ako>"
+	"ako" prn pers p1 sg nom
+"<.>"
+	"." sent
+
+"<Nakaon>"
+	"kaon" v tv pres
+"<hiya>"
+	"hiya" prn pers p3 sg nom
+"<.>"
+	"." sent
+
+"<Matindog>"
+	"*Matindog"
+"<kita>"
+	"kita" prn pers p1 incl p1 nom
+"<.>"
+	"." sent
+
+"<Inminon>"
+	"*Inminon"
+"<hira>"
+	"hira" prn pers p3 p1 nom
+	"ra" det pl
+		"hi" det pos
+"<.>"
+	"." sent
+
+"<Inminon>"
+	"*Inminon"
+"<hira>"
+	"hira" prn pers p3 p1 nom
+	"ra" det pl
+		"hi" det pos
+"<.>"
+	"." sent
+ 
+"<Nasimba>"
+	"simba" v tv pres
+"<kami>"
+	"kami" prn pers p1 excl pl nom
+"<.>"
+	"." sent
+ 
+"<Nakadto>"
+	"kadto" v tv pres
+"<hi>"
+	"hi" det pos
+"<John>"
+	"*John"
+"<.>"
+	"." sent
+ 
+"<Tinmawag>"
+	"táwag" v tv past
+"<kamo>"
+	"kamo" prn pers p2 pl nom
+"<.>"
+	"." sent
+
+"<Masunod>"
+	"sunod" v tv fut
+"<an>"
+	"an" det nom
+"<bata>"
+	"bata" n
+"<.>"
+	"." sent
+ 
+"<Nabalhin>"
+	"*Nabalhin"
+"<hira>"
+	"hira" prn pers p3 p1 nom
+	"ra" det pl
+		"hi" det pos
+"<Mike>"
+	"*Mike"
+"<ngan>"
+	"ngan" det pl
+"<hi>"
+	"hi" det pos
+"<Kristi>"
+	"*Kristi"
+"<.>"
+	"." sent
+
+"<Makaon>"
+	"kaon" v tv fut
+"<hi>"
+	"hi" det pos
+"<Joel>"
+	"*Joel"
+"<hini>"
+	"hini" prn det dem
+"<nga>"
+	"nga" det link
+"<mangga>"
+	"mángga" n
+"<ha>"
+	"ha" det obl
+"<eskwelahan>"
+	"*eskwelahan"
+"<.>"
+	"." sent
+
+"<Tinmawag>"
+	"táwag" v tv past
+"<an>"
+	"an" det nom
+"<dokroe>"
+	"*dokroe"
+"<han>"
+	"han" det def pos
+"<nars>"
+	"nárs" n
+"<ha>"
+	"ha" det obl
+"<ospital>"
+	"ospitál" n
+"<.>"
+	"." sent
+
+"<Masimba>"
+	"simba" v tv fut
+"<hira>"
+	"hira" prn pers p3 p1 nom
+	"ra" det pl
+		"hi" det pos
+"<Bobong>"
+	"Bobong" np ant m
+"<ngan>"
+	"ngan" det pl
+"<hi>"
+	"hi" det pos
+"<Rico>"
+	"Rico" np ant m
+"<ha>"
+	"ha" det obl
+"<Bangkal>"
+	"*Bangkal"
+"<.>"
+	"." sent
+
+"<Mainom>"
+	"inom" v tv fut
+"<an>"
+	"an" det nom
+"<maestra>"
+	"*maestra"
+"<hin>"
+	"hin" det ind pos
+"<tubig>"
+	"*tubig"
+"<.>"
+	"." sent
+
+"<Mapasyada>"
+	"pasyáda" v tv fut
+"<an>"
+	"an" det nom
+"<mga>"
+	"mga" det pl
+"<estudyante>"
+	"estudyante" n
+"<ha>"
+	"ha" det obl
+"<balay>"
+	"balay" n
+"<namon>"
+	"kami" prn pers p1 excl pl pos
+"<..>"
+	".." sent
+

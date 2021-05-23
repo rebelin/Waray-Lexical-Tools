@@ -93,7 +93,6 @@ gabi:gab-i              # night
 gabi:gabi               # night         Dir/LR
 kwarta:kwarta           # money
 balay:balay             # house
-<<<<<<< HEAD
 apóy:apóy               # grandmother
 opisyáles:opisyáles     # officer
 diyos-diyos:diyos-diyos # idol
@@ -129,11 +128,8 @@ langit:langit           # heaven
 hayop:hayop             # animal
 aga:aga                 # morning
 tawo:tawo               # person
-=======
-bisita:bisita           # visitor
+bisita:bisita           # visitor 
 laway:laway             # saliva
-
->>>>>>> 0f1aa90040b6cc84426fc34ff5a0b16972992d98
 TV:{-}TV
 computer:{-}computer 
 bus:{-}bus
@@ -203,8 +199,8 @@ nga:nga                     <link>
 manga:manga                 <link><pl>
 
 LEXICON PluralDet
-ni<det><pos>+ra<det><pl>:nira      # disambiguate
-hi<det><pos>+ra<det><pl>:hira      # disambiguate
+ni<det><pos>+ra<det><pl>:nira     
+hi<det><pos>+ra<det><pl>:hira      
 
 
 LEXICON VerbPrefixes
