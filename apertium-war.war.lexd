@@ -73,63 +73,85 @@ Adjectives [<adj>: ]
 
 LEXICON NounRoot
 
-Amerikano:Amerikano     # American
-estudyante:estudyante   # student
-bata:bata               # child
-kahoy:kahoy             # tree
-harok:harok             # kiss
-sangkay:sangkay         # friend 
-lalake:lalake           # man
-lalake:lalaki           # man          Dir/LR
-babaye:babaye           # woman
-urupod:urupod           # relative
-mananap:mananap         # insect
+Amerikano:Amerikano                 # American
+estudyante:estudyante               # student
+bata:bata                           # child
+kahoy:kahoy                         # tree
+harok:harok                         # kiss
+sangkay:sangkay                     # friend 
+lalake:lalake                       # man
+lalake:lalaki                       # man          Dir/LR
+babaye:babaye                       # woman
+urupod:urupod                       # relative
+mananap:mananap                     # insect
 adobo:adobo       
-dyaket:dyaket           # jacket
-kape:kape               # coffee
-tuna:tuna               # land 
-adlaw:adlaw             # day
-gabi:gab-i              # night
-gabi:gabi               # night         Dir/LR
-kwarta:kwarta           # money
-balay:balay             # house
-apóy:apóy               # grandmother
-opisyáles:opisyáles     # officer
-diyos-diyos:diyos-diyos # idol
-hagdanán:hagdanán       # ladder
-kánto:kánto             # corner
-karsáda:karsáda         # street, road, paved
-kabulig:kabulig         # helper
-kudal:kudal             # fence
-kusina:kusina           # kitchen
-tindáhan:tindáhan       # store
-mángga:mángga           # mango
-merkádo:merkádo         # market
-nárs:nárs               # nurse
-ospitál:ospitál         # hospital
-sála:sála               # living room
-siné:siné               # movie
-lagas:lagas             # old person
-utan:utan               # cooked vegetable
-káhoy:káhoy             # tree, lumber
-kwárto:kwárto           # room
-lápis:lápis             # pencil
-líbro:líbro             # book
-matá:matá               # eye
-habubô:habubô           # problem
-simbahan:simbahan       # church
-lingkúran:lingkúran     # chair
-báso:báso               # glass
-kláse:kláse             # class
-lamésa:lamésa           # table
-lékyson:lékyson         # lesson
-papél:papél             # paper
-langit:langit           # heaven
-hayop:hayop             # animal
-aga:aga                 # morning
-tawo:tawo               # person
-bisita:bisita           # visitor 
-laway:laway             # saliva
+dyaket:dyaket                       # jacket
+kape:kape                           # coffee
+tuna:tuna                           # land 
+adlaw:adlaw                         # day
+gabi:gab-i                          # night
+gabi:gabi                           # night         Dir/LR
+kwarta:kwarta                       # money
+balay:balay                         # house
+apóy:apóy                           # grandmother
+opisyáles:opisyáles                 # officer
+diyos-diyos:diyos-diyos             # idol
+hagdanán:hagdanán                   # ladder
+kánto:kánto                         # corner
+karsáda:karsáda                     # street, road, paved
+kabulig:kabulig                     # helper
+kusina:kusina                       # kitchen
+tindáhan:tindáhan                   # store
+mángga:mángga                       # mango
+merkádo:merkádo                     # market
+nárs:nárs                           # nurse
+ospitál:ospitál                     # hospital
+sála:sála                           # living room
+siné:siné                           # movie
+lagas:lagas                         # old person
+utan:utan                           # cooked vegetable
+káhoy:káhoy                         # tree, lumber
+kwárto:kwárto                       # room
+lápis:lápis                         # pencil
+líbro:líbro                         # book
+matá:matá                           # eye
+habubô:habubô                       # problem
+simbahan:simbahan                   # church
+lingkúran:lingkúran                 # chair
+báso:báso                           # glass
+kláse:kláse                         # class
+lamésa:lamésa                       # table
+lékyson:lékyson                     # lesson
+papél:papél                         # paper
+langit:langit                       # heaven
+hayop:hayop                         # animal
+aga:aga                             # morning
+tawo:tawo                           # person
+bisita:bisita                       # visitor 
+laway:laway                         # saliva
+abugádo:abugádo		                # lawyer
+bulád:bulád			                # dried fish
+adaw:adaw			                # midday; noon time
+agdbon:agdbon		                # ashes
+abaniko:abaniko		                # hand fan
+alibangbang:alibangbang	            # butterfly
+alad:alad			                # fence
+ani:ani				                # harvest
+áwto:áwto			                # car
+buhî:buhî			                # living
+búngto:búngto		                # town
+báboy:báboy			                # pig
+botíka:botíka			            # pharmacy
+kárne:kárne			                # meat
+kéyk:kéyk			                # cake
+grúpo:grúpo			                # group
+opisína:opisína		                # office
+pátud:pátud			                # cousin
+payág:payág			                # hut, shanty
+presidénte:presidénte		        # president
+swípstek:swípstek		            # sweepstakes
+támbal:támbal			            # medicine
+telépono:telépono		            # telephone
 TV:{-}TV
 computer:{-}computer 
 bus:{-}bus
@@ -216,30 +238,38 @@ LEXICON VerbPrefixes
 #<past>:inm>
 
 LEXICON VerbStems(2)
-dara:dara         <tv>
-mando:mando       <tv>
-trabaho:trabaho   <tv>
-aram:aram         <tv>
-bantay:bantay     <tv>
-sakay:sakay       <tv>
-palit:palit       <tv>
-hatag:hatag       <tv>
-kaon:kaon         <tv>
-lakat:lakat       <tv>
-inom:inom         <tv>
-sunod:sunod       <tv>
-kadto:kadto       <tv>
-simba:simba       <tv>
-balhim:balhim     <tv>
-adtó:adtó         <tv>
-táwa:táwa         <tv>  
-labá:labá         <tv> 
-matá:matá         <tv> 
-pasyáda:pasyáda   <tv> 
-táwag:táwag       <tv> 
-túkdaw:túkdaw     <tv> 
-yakán:yakán       <tv> 
-dáop:dáop         <tv> 
+dara:dara               <tv>
+mando:mando             <tv>
+trabaho:trabaho         <tv>
+aram:aram               <tv>
+bantay:bantay           <tv>
+sakay:sakay             <tv>
+palit:palit             <tv>
+hatag:hatag             <tv>
+kaon:kaon               <tv>
+lakat:lakat             <tv>
+inom:inom               <tv>
+sunod:sunod             <tv>
+kadto:kadto             <tv>
+simba:simba             <tv>
+balhim:balhim           <tv>
+adtó:adtó               <tv>
+táwa:táwa               <tv>  
+labá:labá               <tv> 
+matá:matá               <tv> 
+pasyáda:pasyáda         <tv> 
+táwag:táwag             <tv> 
+túkdaw:túkdaw           <tv> 
+yakán:yakán             <tv> 
+dáop:dáop               <tv> 
+alsa:alsa		        <tv>		# to lift something/carry someone
+andam:andam		        <tv>		# to prepare
+asawa:asawa		        <tv>		# to marry 
+kinghanglan:kinghanglan <tv>	    # to need (something) 
+siríng:siríng		    <tv>		# to say 
+hulat:hulat		        <tv>	    # to wait 
+lirong:lirong		    <tv>		# to deny 
+ukoy:ukoy		        <tv>		# to live (somewhere; in a place) 
 
 LEXICON Auxiliary
 ba:ba
@@ -250,7 +280,7 @@ gutiay:gutiay           # small
 mabuság:mabuság         # white
 masayón:masayón         # easy
 bág-o:bág-o             # new
-dáan:dáan               # old
+dáan:dáan               # old, previous, former
 dágat:dágat             # ocean, sea
 dámo:dámo               # many
 karsada:karsada         # road, way
@@ -263,6 +293,18 @@ buótan:buótan           # nice
 mapasô:mapasô           # hot
 maduróto:maduróto       # industrious
 makasóg:makasóg         # strong (person)
+aaluhon:aaluhon 		# shy
+aringit:aringit			# grumpy
+awa-on:awa-on		    # envious
+bagahon:bagahon		    # young and innocent
+baltok:baltok			# intelligent
+barato:barato			# cheap
+berde:berde			    # green
+bungol:bungol			# deaf (this can also be a noun)
+buringot:buringot		# messy; unkempt
+busag:busag			    # white (this can also be a noun)
+buta:buta			    # blind
+
 
 LEXICON Adverbs
 na:na 
