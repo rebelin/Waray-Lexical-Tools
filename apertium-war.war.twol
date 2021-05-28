@@ -21,9 +21,6 @@ Cons = B C D F G H J K L M N Ñ P Q R S T V W X Y Z
 
 Rules
 
-!"Remove suffix vowel with vowel-ending stem"
-!i:0 <=> Vow %{VSUF%}:0 _ [ m | n ] ;
-
 "Reduplicating Vowel"
 %{V%}:Vy <=> _ [ : - Vowel: ]* Vx: ;
          where Vx in Vowel

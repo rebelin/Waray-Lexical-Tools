@@ -4,7 +4,7 @@
 # <n>      # Noun
 # <prn>    # Pronoun
 # <np>     # Proper noun
-# <v>      # Verbl
+# <v>      # Verb
 # <adv>    # Adverb
 # <pos>    # Possessive
 # <tv>     # Transitive verb
@@ -56,7 +56,7 @@ NounRoot [<n>: ]
 Determiners(1) [<det>: ] Determiners(2):
 PluralDet
 :VerbPrefixes VerbStems(1) [<v>: ] VerbStems(2): VerbPrefixes: 
-#:VerbInfixes VerbStems(1) [<v>: ] VerbStems(2): VerbInfixes:
+VerbStems(1) [<v>: ] VerbStems(2): 
 Pronouns 
 ProperNouns(1) [<np>: ] ProperNouns(2):
 Adverbs [<adv>: ]
@@ -163,7 +163,7 @@ Dios:Dios           <ant>             # God
 Rico:Rico           <ant><m>    
 Bobong:Bobong       <ant><m>
 Rhoda:Rhoda         <ant><f>
-Romulo:Romulo       <ant><man>
+Romulo:Romulo       <ant><m>
 
 LEXICON Pronouns 
 #========= Class I =========#
@@ -174,7 +174,7 @@ hiya<prn><pers><p3><sg><nom>:hiya           # he/she
 kita<prn><pers><p1><incl><p1><nom>:kita     # (incl) we
 kami<prn><pers><p1><excl><pl><nom>:kami     # (excl) we
 kamo<prn><pers><p2><pl><nom>:kamo           # you    
-hira<prn><pers><p3><p1><nom>:hira           # they   # disambiguate
+hira<prn><pers><p3><pl><nom>:hira           # they   # disambiguate
 #========== Class II ==========#
 ako<prn><pers><p1><sg><pos>:nakon          # my
 ako<prn><pers><p1><sg><pos>:ko
@@ -194,16 +194,16 @@ kami<prn><pers><p1><excl><pl><obl>:amon     # (excl) us
 kamo<prn><pers><p2><pl><obl>:iyo            # you
 hira<prn><pers><p3><pl><obl>:ira            # them        
 #========== General Pronouns ==========#
-ini<prn><det><dem>:ini                      # this (very near the speaker) 
-hini<prn><det><dem>:hini 
-iton<prn><det><dem>:iton                     # that (near the speaker)
-iton<prn><det><dem>:ito
-hiton<prn><det><dem>:hiton 
-adto<prn><det><dem>:adto                    # that over there (far from the speaker)
-hadto<prn><det><dem>:hadto       
-dinhi<prn><det><dem>:dinhi	                # this (location)
-dida<prn><det><dem>:dida	                # that (location)
-didto<prn><det><dem>:didto                  # that over there (location)
+ini<det><dem>:ini                      # this (very near the speaker) 
+hini<det><dem>:hini 
+iton<det><dem>:iton                     # that (near the speaker)
+iton<det><dem>:ito
+hiton<det><dem>:hiton 
+adto<det><dem>:adto                    # that over there (far from the speaker)
+hadto<det><dem>:hadto       
+dinhi<det><dem>:dinhi	                # this (location)
+dida<det><dem>:dida	                # that (location)
+didto<det><dem>:didto                  # that over there (location)
 
 LEXICON Determiners(2)
 an:an                       <nom>
@@ -224,7 +224,6 @@ LEXICON PluralDet
 ni<det><pos>+ra<det><pl>:nira     
 hi<det><pos>+ra<det><pl>:hira      
 
-
 LEXICON VerbPrefixes
 <futd>:mag>     
 <fut>:ma>
@@ -233,9 +232,6 @@ LEXICON VerbPrefixes
 <pres>:nag>{C1}{C2}{V}>
 <imp>:pag>
 <past>:{I}inm>
-
-#LEXICON VerbInfixes
-#<past>:inm>
 
 LEXICON VerbStems(2)
 dara:dara               <tv>
@@ -277,7 +273,6 @@ ba:ba
 LEXICON Adjectives
 daku:daku               # big 
 gutiay:gutiay           # small
-mabuság:mabuság         # white
 masayón:masayón         # easy
 bág-o:bág-o             # new
 dáan:dáan               # old, previous, former
