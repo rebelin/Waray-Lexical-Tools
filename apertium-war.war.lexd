@@ -72,86 +72,195 @@ Adjectives [<adj>: ]
 ###############################################################################
 
 LEXICON NounRoot
-
-Amerikano:Amerikano                 # American
-estudyante:estudyante               # student
-bata:bata                           # child
-kahoy:kahoy                         # tree
-harok:harok                         # kiss
-sangkay:sangkay                     # friend 
-lalake:lalake                       # man
-lalake:lalaki                       # man          Dir/LR
-babaye:babaye                       # woman
-urupod:urupod                       # relative
-mananap:mananap                     # insect
-adobo:adobo       
-dyaket:dyaket                       # jacket
-kape:kape                           # coffee
-tuna:tuna                           # land 
-adlaw:adlaw                         # day
-gabi:gab-i                          # night
-gabi:gabi                           # night         Dir/LR
-kwarta:kwarta                       # money
-balay:balay                         # house
-apóy:apóy                           # grandmother
-opisyáles:opisyáles                 # officer
-diyos-diyos:diyos-diyos             # idol
-hagdanán:hagdanán                   # ladder
-kánto:kánto                         # corner
-karsáda:karsáda                     # street, road, paved
-kabulig:kabulig                     # helper
-kusina:kusina                       # kitchen
-tindáhan:tindáhan                   # store
-mángga:mángga                       # mango
-merkádo:merkádo                     # market
-nárs:nárs                           # nurse
-ospitál:ospitál                     # hospital
-sála:sála                           # living room
-siné:siné                           # movie
-lagas:lagas                         # old person
-utan:utan                           # cooked vegetable
-káhoy:káhoy                         # tree, lumber
-kwárto:kwárto                       # room
-lápis:lápis                         # pencil
-líbro:líbro                         # book
-matá:matá                           # eye
-habubô:habubô                       # problem
-simbahan:simbahan                   # church
-lingkúran:lingkúran                 # chair
-báso:báso                           # glass
-kláse:kláse                         # class
-lamésa:lamésa                       # table
-lékyson:lékyson                     # lesson
-papél:papél                         # paper
-langit:langit                       # heaven
-hayop:hayop                         # animal
-aga:aga                             # morning
-tawo:tawo                           # person
-bisita:bisita                       # visitor 
-laway:laway                         # saliva
-abugádo:abugádo		                # lawyer
-bulád:bulád			                # dried fish
-adaw:adaw			                # midday; noon time
-agdbon:agdbon		                # ashes
 abaniko:abaniko		                # hand fan
+abugádo:abugádo		                # lawyer
+adaw:adaw			                # midday; noon time
+adlaw:adlaw                         # day
+aga:aga                             # morning
+agdbon:agdbon		                # ashes
 alibangbang:alibangbang	            # butterfly
 alad:alad			                # fence
+anák:anák			                # child
 ani:ani				                # harvest
+apó:apó			                    # grandchilden
+apóy:apóy                           # grandmother	
+asawa:asawa			                # husband
+asúkar:asúkar			            # sugar
 áwto:áwto			                # car
-buhî:buhî			                # living
-búngto:búngto		                # town
+áyam:áyam			                # dog
+babaye:babaye                       # woman
 báboy:báboy			                # pig
+bádo:bádo			                # dress, shirt
+balay:balay			                # dwelling place, house
+baláod:baláod			            # law
+balitâ:balitâ			            # news
+barangán:barangán		            # witch doctor
+báso:báso                           # glass
+bata:bata                           # child
+baton:baton			                # answer
+bayáni:bayáni			            # hero
+baybáyon:baybáyon		            # beach
+bendísyon:bendísyon		            # blessing
+biblíya:biblíya			            # bible
+bisita:bisita			            # visitor
+biyáhe:biyáhe			            # trip, journey
+bodéga:bodéga		                # warehouse, storage
 botíka:botíka			            # pharmacy
-kárne:kárne			                # meat
-kéyk:kéyk			                # cake
+buhî:buhî			                # living
+buho:buho			                # hole
+bulád:bulád			                # dried fish
+bulig:bulig			                # help
+búngto:búngto		                # town
+buruhatón:buruhatón 	            # work, activity
+butáng:butáng			            # thing
+dada:dada			                # aunt
+diyákono:diyákono		            # deacon
+diyos-diyos:diyos-diyos             # idol
+doktrína:doktrína		            # doctrine
+dyaket:dyaket                       # jacket
+espiritú:espiritú		            # spirit
+estudyante:estudyante               # student
+gábi:gáb-i                          # night
+gábi:gábi                           # night         Dir/LR
+gátas:gátas			                # milk
 grúpo:grúpo			                # group
+gúgma:gúgma			                # love
+habubô:habubô                       # problem
+hagdanán:hagdanán		            # ladder
+hángin:hángin			            # air, wind
+hardinéro:hardinéro		            # gardener
+harok:harok                         # kiss
+húnàhúnà:húnàhúnà		            # mind
+hayop:hayop                         # animal
+ido:ido				                # dog
+iglésiya:iglésiya		            # church
+impyérno:impyérno		            # hell
+kaádlawan:kaádlawan	                # birthday
+kaamyaw:kaamyaw		                # neighborhood
+kabulig:kabulig		                # helper
+káhoy:káhoy			                # tree, lumber
+kamátis:kamátis		                # tomato
+kamatuóran:kamatuóran	            # truth
+kánta:kánta			                # song
+kánto:kánto			                # corner
+kapáyas:kapáyas		                # papaya
+kape:kape                           # coffee
+kapitán:kapitán		                # captain
+kapílya:kapílya			            # chapel
+karabaw:karabaw		                # carabao
+karsáda:karsáda		                # street, road
+kárne:kárne			                # meat
+karnéng\ báboy:karnéng\ báboy       # pork
+kasál:kasál			                # wedding
+kasilya:kasilya			            # restroom 
+kasíngkásing:kasíngkásing	        # heart
+karendériya:karendériya	            # restaurant
+kátre:kátre			                # bed
+kaugaríngon:kaugaríngon	            # self
+kéyk:kéyk			                # cake
+kinabúhì:kinabúhì		            # life
+kláse:kláse                         # class
+klíma:klíma				            # climate
+kolehiyo:kolehiyo		            # college
+konsehal:konsehal		            # councilman
+konsuylo:konsuylo		            # boyfriend, girlfriend
+krús:krús			                # cross
+kudal:kudal			                # fence
+kusína:kusína			            # kitchen
+kwarta:kwarta                       # money
+kwárto:kwárto			            # room
+lagas:lagas			                # old person
+leksyon:leksyon                     # lesson 
+lalake:lalake                       # man
+lalake:lalaki                       # man          Dir/LR
+lamésa:lamésa                       # table
+lángit:lángit			            # heaven
+lápis:lápis                         # pencil
+láwas:láwas			                # body
+laway:laway                         # saliva
+líbro:líbro                         # book
+lider:lider			                # leader
+lingkúran:lingkúran                 # chair
+línya:línya			                # line
+litson:litson			            # roasted pig
+lugár:lugár			                # place
+maís:maís			                # corn
+magturútdo:magturútdo	            # teacher
+mag-uróma:mag-uróma 	            # farmer
+mananap:mananap                     # insect
+mángga:mángga                       # mango
+mangirísda:mangirísda	            # fisherman
+manók:manók			                # chicken
+masakiton:masakiton		            # sick person
+matá:matá                           # eye
+mayor:mayor			                # boss/employer
+mensáhe:mensáhe		                # message
+merienda:merienda		            # godmother
+merkádo:merkádo                     # market
+misa:misa			                # mass
+muláyan:muláyan		                # toy
+nárs:nárs                           # nurse
+násud:násud			                # nation
+nawóng:nawóng		                # face
+negosyante:negosyante	            # businessman
+ngáran:ngáran			            # name
+ninang:ninang			            # godmother
+ninong:ninong			            # godfather
 opisína:opisína		                # office
+opisyáles:opisyáles                 # officer
+ospitál:ospitál                     # hospital
+pag-umángkon:pag-umángkon           # nephew
+pakiána:pakiána		                # question
+panahón:panahón		                # time, season
+pánday:pánday		                # carpenter
+pangiklop:pangiklop		            # supper
+paniudto:paniudto		            # lunch
+papél:papél                         # paper
+párte:párte			                # party
+pasyente:pasyente		            # patient
 pátud:pátud			                # cousin
 payág:payág			                # hut, shanty
 presidénte:presidénte		        # president
-swípstek:swípstek		            # sweepstakes
+probinsya:probinsya		            # province
+pulong:pulong			            # word
+purtahán:purtahán		            # door
+saad:saad			                # promise
+sabongán:sabongán		            # cockpit
+sakyanán:sakyanán		            # car
+salà:salà			                # sin
+sangkay:sangkay                     # friend 
+sála:sála                           # living room
+sánto:sánto			                # saint
+sárì-sárì:sárì-sárì		            # small store
+saruwál:saruwál		                # pants
+sekretarya:sekretarya		        # secretary
+serbisyo:serbisyo		            # service
+simbahan:simbahan                   # church
+siné:siné			                # movie
+sinehán:sinehán		                # movie theater
+sista:sista			                # guitar
+siyudád:siyudád		                # city
+sorbeti:sorbeti			            # ice cream
+swípstek:swípstek		            # sweepstake
+tag-iya:tag-iya			            # owner
+táklap:táklap			            # blanket 
 támbal:támbal			            # medicine
+tanan:tanan			                # everyone, all
+tanoman:tanoman		                # garden
+tawo:tawo                           # person
 telépono:telépono		            # telephone
+tindáhan:tindáhan		            # store
+tinún-an:tinún-an		            # disciple
+tsa:tsa				                # tea
+tsinelas:tsinelas		            # slippers
+túna:túna			                # land, earth, ground
+umá:umá			                    # farm
+uniporme:uniporme		            # uniform
+urupod:urupod                       # relative
+utan:utan                           # cooked vegetable
+útang:útang			                # debt
+uyáb:uyáb			                # boyfriend, girlfriend
+yámà:yámà			                # devil
 TV:{-}TV
 computer:{-}computer 
 bus:{-}bus
@@ -159,11 +268,21 @@ piano:{-}piano
 guitar:{-}guitar
 
 LEXICON ProperNouns(2)
-Dios:Dios           <ant>             # God
-Rico:Rico           <ant><m>    
-Bobong:Bobong       <ant><m>
-Rhoda:Rhoda         <ant><f>
-Romulo:Romulo       <ant><m>
+Diós:Diós                   <ant>             # God
+Diós:Diyós                  <ant>             # God             Dir/LR
+Ginóo:Ginóo			        <ant>             # Lord
+Jésu\ Krísto:Jésu\ Krísto	<ant><m>       	  # Jesus Christ
+Satanás:Satanás 		    <ant>             # Satan
+Sánta\ Mária:Sánta\ Mária	    <ant><f>          # St. Mary
+Rico:Rico                   <ant><m>    
+Bobong:Bobong               <ant><m>
+Rhoda:Rhoda                 <ant><f>
+Romulo:Romulo               <ant><m>
+Dodong:Dodong               <ant><m>
+Emily:Emily                 <ant><f>
+Arnold:Arnold               <ant><m>
+John:John                   <ant><m>
+Judith:Judith               <ant><f>
 
 LEXICON Pronouns 
 #========= Class I =========#
@@ -234,72 +353,166 @@ LEXICON VerbPrefixes
 <past>:{I}inm>
 
 LEXICON VerbStems(2)
-dara:dara               <tv>
-mando:mando             <tv>
-trabaho:trabaho         <tv>
-aram:aram               <tv>
-bantay:bantay           <tv>
-sakay:sakay             <tv>
-palit:palit             <tv>
-hatag:hatag             <tv>
-kaon:kaon               <tv>
-lakat:lakat             <tv>
-inom:inom               <tv>
-sunod:sunod             <tv>
-kadto:kadto             <tv>
-simba:simba             <tv>
-balhim:balhim           <tv>
-adtó:adtó               <tv>
-táwa:táwa               <tv>  
-labá:labá               <tv> 
-matá:matá               <tv> 
-pasyáda:pasyáda         <tv> 
-táwag:táwag             <tv> 
-túkdaw:túkdaw           <tv> 
-yakán:yakán             <tv> 
-dáop:dáop               <tv> 
+abót:abót		        <tv>		# to arrive
+adtó:adtó		        <tv>		# to go
+ági:ági			        <tv>		# to pass by
 alsa:alsa		        <tv>		# to lift something/carry someone
 andam:andam		        <tv>		# to prepare
+ámpo:ámpo		        <tv>		# to pray
+ántos:ántos		        <tv>		# to suffer
+aram:aram               <tv>        # to learn
 asawa:asawa		        <tv>		# to marry 
-kinghanglan:kinghanglan <tv>	    # to need (something) 
-siríng:siríng		    <tv>		# to say 
+balhín:balhín	        <tv>	    # to move, transfer
+bálik:bálik		        <tv>		# to come back
+balyo:balyo             <tv>        # to buy something
+bantay:bantay           <tv>        # to guard
+bása:bása		        <tv>		# to read
+báyad:báyad		        <tv>		# to pay
+bisíta:bisíta		    <tv>		# to visit
+búhat:búhat 		    <tv>		# to do/make
+dalágan:dalágan	        <tv>		# to run
+dáop:dáop		        <tv>		# to approach, to come near
+daóg:daóg		        <tv>		# to win
+dara:dara               <tv>        # to bring
+hángyò:hángyò	        <tv>		# to ask ( a favor ), to request
+hátag:hátag		        <tv>		# to give
+hígdà:hígdà		        <tv>		# to lay down
 hulat:hulat		        <tv>	    # to wait 
+hurám:hurám		        <tv>		# to borrow
+inom:inom               <tv>
+kadto:kadto             <tv>
+kánta:kánta		        <tv>		# to sing
+karáwat:karáwat	        <tv>		# to accept, receive
+káon:káon		        <tv>		# to eat
+kinghanglan:kinghanglan <tv>	    # to need (something) 
+kita:kita		        <tv>		# to meet
+kompesal:kompesal	    <tv>		# to repent
+labá:labá		        <tv>		# to wash (clothes)
+labay:labay		        <tv> 		# to pass by
+lakát:lakát		        <tv>		# to go, walk
+lanat:lanat		        <tv>		# to catch up with, to go after
+língkod:língkod	        <tv>		# to sit
 lirong:lirong		    <tv>		# to deny 
+luhód:luhód		        <tv>		# to kneel, to sponsor
+lúkso:lúkso		        <iv>		# to jump
+lútò:lútò		        <tv>		# to cook
+matá:matá		        <iv>		# to wake up
+mahimo:mahimo	        <tv>		# to be able to, can
+mando:mando             <tv>        # to command
+múlay:múlay		        <tv>		# to play
+pagbáyà:pagbáyà 	    <tv>		# to leave, abandon
+paghimò:paghimò		    <tv>		# to create, make
+pagkánhi:pagkánhi 	    <tv>		# to come here
+pagkuráhab:pagkuráhab   <tv>		# to scream, shout
+pagtirók:pagtirók	    <tv>		# to gather, collect
+pagtúbò:pagtúbò	        <tv>		# to grow
+pahibaro:pahibaro	    <tv>		# to announce
+pakyaw:pakyaw	        <tv>		# to contract work
+palít:palít		        <tv>		# to buy
+pasáylo:pasáylo	        <tv>		# to forgive
+pasyáda:pasyáda	        <tv>		# to roam around
+patay:patay		        <tv>		# to kill
+pílì:pílì			    <tv>		# to choose
+plite:plite		        <tv>		# to rent
+sáad:sáad		        <tv>		# to promise
+sáka:sáka		        <tv>		# to climb up, ascend
+sakay:sakay		        <tv>		# to ride
+sarát:sarát		        <tv>		# to write
+sárig:sárig		        <tv>		# to trust
+siríng:siríng		    <tv>		# to speak, talk
+símba:símba		        <tv>		# to worship, go to church
+siríng:siríng		    <tv>		# to say 
+súgat:súgat		        <tv>		# to meet
+sulód:sulód		        <tv>		# to go inside
+súl-ot:súl-ot		    <tv>		# to wear
+sunód:sunód		        <tv>		# to follow
+suwáy:suwáy		        <tv>		# to oppose, go against
+táhod:táhod		        <tv>		# to reverence, to respect
+talikod:talikod		    <tv>		# to turn around, to abandon
+tanúm:tanúm		        <tv>		# to plant
+táwa:táwa		        <tv>		# to laugh
+táwag:táwag		        <tv>		# to call
+tikang:tikang		    <tv>		# to start, begin
+trabaho:trabaho         <tv>        # to work
+túbyan:túbyan		    <tv>		# to commit
+tukar:tukar 		    <tv>		# to play (music)
+túkdaw:túkdaw	        <iv>		# to stand
+túkod:túkod		        <iv>		# to build
+túo:túo		            <iv>		# to believe
+tuók:tuók		        <tv>		# to cry
+tútdò:tútdò		        <tv>		# to teach
 ukoy:ukoy		        <tv>		# to live (somewhere; in a place) 
+ulì:ulì			        <tv>		# to return, go home
+upód:upód		        <tv>		# to accompany, to go with
+úyon:úyon		        <tv>		# to agree
+wáli:wáli		        <tv>		# to preach
+yakán:yakán             <tv>        # to speak
 
 LEXICON Auxiliary
 ba:ba
 
 LEXICON Adjectives
-daku:daku               # big 
-gutiay:gutiay           # small
-masayón:masayón         # easy
-bág-o:bág-o             # new
-dáan:dáan               # old, previous, former
-dágat:dágat             # ocean, sea
-dámo:dámo               # many
-karsada:karsada         # road, way
-karáut:karáut           # bad
-malídong:malídong       # round
-makurî:makurî           # difficult
-punò:punò               # full 
-madíg-on:madíg-on       # strong (things)
-buótan:buótan           # nice
-mapasô:mapasô           # hot
-maduróto:maduróto       # industrious
-makasóg:makasóg         # strong (person)
 aaluhon:aaluhon 		# shy
 aringit:aringit			# grumpy
 awa-on:awa-on		    # envious
 bagahon:bagahon		    # young and innocent
+bág-o:bág-o             # new
 baltok:baltok			# intelligent
 barato:barato			# cheap
 berde:berde			    # green
+búg-os:búg-os			# whole, complete
 bungol:bungol			# deaf (this can also be a noun)
+buótan:buótan           # nice
 buringot:buringot		# messy; unkempt
 busag:busag			    # white (this can also be a noun)
 buta:buta			    # blind
-
+dáan:dáan               # old, previous, former
+daku:daku               # big 
+daragita:daragita		# young
+gutiay:gutiay           # small
+grábe:grábe			    # serious
+halígut:halígut			# narrow
+hamót:hamót			    # good smelling
+hiláw:hiláw			    # unripe, raw
+hinúg:hinúg			    # ripe
+húmok:húmok			    # soft, tender
+importánte:importánte	# important
+itúm:itúm			    # black
+katapósan:katapósan		# last
+karáut:karáut           # bad
+kurípot:kurípot			# stingy
+láin:láin			    # other, different
+maaringása:maaringása	# noisy
+maáslum:maáslum		    # sour
+madíg-on:madíg-on       # strong (things)
+maduróto:maduróto       # industrious
+magasâ:magasâ		    # thin, skinny
+mahúgaw:mahúgaw		    # dirty
+makápoy:makápoy		    # tired
+makasóg:makasóg         # strong (person)
+makurî:makurî           # difficult
+malídong:malídong       # round
+malipáyon:malipáyon		# happy
+malúya:malúya		    # weak
+malolóy-on:malolóy-on	# kind, merciful
+mamuráyaw:mamuráyaw	    # peaceful
+mapasô:mapasô           # hot
+marása:marása		    # delicious
+maráksot:maráksot		# ugly
+masayón:masayón         # easy
+masírom:masírom		    # dark
+matáb-ang:matáb-ang	    # tasteless
+matádong:matádong		# righteous
+matám-is:matám-is		# sweet
+matúgnaw:matúgnaw		# cold (weather)
+padlas:padlas			# crazy
+patáy:patáy			    # dead
+póbre:póbre			    # poor
+pulà:pulà			    # red
+punò:punò               # full 
+ríko:ríko			    # rich
+tádong:tádong			# straight
+urusáhon:urusáhon		# wonderful
 
 LEXICON Adverbs
 na:na 
